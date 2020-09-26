@@ -1,0 +1,1957 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ALLOC	archival/gzip.c	118;"	d	language:C	file:
+ALLOC	archival/gzip.c	126;"	d	language:C	file:
+ALLOC	gzip.c	118;"	d	language:C	file:
+ALLOC	gzip.c	126;"	d	language:C	file:
+ALLOC	zcat.c	193;"	d	language:C	file:
+ALLOC	zcat.c	201;"	d	language:C	file:
+APPCHAR	coreutils/ls.c	81;"	d	language:C	file:
+APPCHAR	ls.c	81;"	d	language:C	file:
+ARCH	Makefile	/^ARCH=`uname -m | sed -e 's\/i.86\/i386\/' | sed -e 's\/sparc.*\/sparc\/'`$/;"	m	language:Make
+ASCII	archival/gzip.c	188;"	d	language:C	file:
+ASCII	gzip.c	188;"	d	language:C	file:
+ASCII_FLAG	archival/gzip.c	177;"	d	language:C	file:
+ASCII_FLAG	gzip.c	177;"	d	language:C	file:
+ASCII_FLAG	zcat.c	241;"	d	language:C	file:
+ASMV	archival/gzip.c	446;"	d	language:C	file:
+ASMV	archival/gzip.c	561;"	d	language:C	file:
+ASMV	archival/gzip.c	585;"	d	language:C	file:
+ASMV	gzip.c	446;"	d	language:C	file:
+ASMV	gzip.c	561;"	d	language:C	file:
+ASMV	gzip.c	585;"	d	language:C	file:
+Applet	internal.h	/^struct Applet {$/;"	s	language:C++
+Assert	archival/gzip.c	257;"	d	language:C	file:
+Assert	archival/gzip.c	264;"	d	language:C	file:
+Assert	gzip.c	257;"	d	language:C	file:
+Assert	gzip.c	264;"	d	language:C	file:
+Assert	zcat.c	315;"	d	language:C	file:
+Assert	zcat.c	322;"	d	language:C	file:
+BB_BUSYBOX	busybox.def.h	7;"	d	language:C++
+BB_CAT	busybox.def.h	8;"	d	language:C++
+BB_CHOWN	busybox.def.h	10;"	d	language:C++
+BB_CHROOT	busybox.def.h	11;"	d	language:C++
+BB_CLEAR	busybox.def.h	12;"	d	language:C++
+BB_DATE	busybox.def.h	14;"	d	language:C++
+BB_MORE	busybox.def.h	42;"	d	language:C++
+BINARY	archival/gzip.c	187;"	d	language:C	file:
+BINARY	gzip.c	187;"	d	language:C	file:
+BITS	archival/gzip.c	341;"	d	language:C	file:
+BITS	gzip.c	341;"	d	language:C	file:
+BITS	zcat.c	389;"	d	language:C	file:
+BIT_MASK	archival/gzip.c	345;"	d	language:C	file:
+BIT_MASK	gzip.c	345;"	d	language:C	file:
+BIT_MASK	zcat.c	395;"	d	language:C	file:
+BLOCK_MODE	archival/gzip.c	355;"	d	language:C	file:
+BLOCK_MODE	gzip.c	355;"	d	language:C	file:
+BLOCK_MODE	zcat.c	405;"	d	language:C	file:
+BL_CODES	archival/gzip.c	1956;"	d	language:C	file:
+BL_CODES	gzip.c	1956;"	d	language:C	file:
+BMAX	zcat.c	1572;"	d	language:C	file:
+BOOL	internal.h	/^typedef int     BOOL;$/;"	t	language:C++
+BUF_SIZE	internal.h	43;"	d	language:C++
+BUILDTIME	Makefile	/^BUILDTIME=$(shell date "+%Y%m%d-%H%M")$/;"	m	language:Make
+Buf_size	archival/gzip.c	784;"	d	language:C	file:
+Buf_size	gzip.c	784;"	d	language:C	file:
+CFLAGS	Makefile	/^CFLAGS=-Wall -O2 -fomit-frame-pointer -fno-builtin -D_GNU_SOURCE$/;"	m	language:Make
+CHUNK	internal.h	/^typedef struct chunk CHUNK;$/;"	t	language:C++	typeref:struct:chunk
+CHUNK_INIT_SIZE	internal.h	164;"	d	language:C++
+CLEAR	archival/gzip.c	362;"	d	language:C	file:
+CLEAR	gzip.c	362;"	d	language:C	file:
+CLEAR	zcat.c	412;"	d	language:C	file:
+COLUMN_GAP	coreutils/ls.c	53;"	d	language:C	file:
+COLUMN_GAP	ls.c	53;"	d	language:C	file:
+COLUMN_WIDTH	coreutils/ls.c	52;"	d	language:C	file:
+COLUMN_WIDTH	ls.c	52;"	d	language:C	file:
+COMMENT	archival/gzip.c	181;"	d	language:C	file:
+COMMENT	gzip.c	181;"	d	language:C	file:
+COMMENT	zcat.c	245;"	d	language:C	file:
+COMPRESSED	archival/gzip.c	70;"	d	language:C	file:
+COMPRESSED	gzip.c	70;"	d	language:C	file:
+CONTINUATION	archival/gzip.c	178;"	d	language:C	file:
+CONTINUATION	gzip.c	178;"	d	language:C	file:
+CONTINUATION	zcat.c	242;"	d	language:C	file:
+CRPFLG	zcat.c	919;"	d	language:C	file:
+CRYPT	zcat.c	908;"	d	language:C	file:
+Code	archival/gzip.c	2038;"	d	language:C	file:
+Code	gzip.c	2038;"	d	language:C	file:
+DECLARE	archival/gzip.c	117;"	d	language:C	file:
+DECLARE	archival/gzip.c	125;"	d	language:C	file:
+DECLARE	gzip.c	117;"	d	language:C	file:
+DECLARE	gzip.c	125;"	d	language:C	file:
+DECLARE	zcat.c	192;"	d	language:C	file:
+DECLARE	zcat.c	200;"	d	language:C	file:
+DEFLATED	archival/gzip.c	74;"	d	language:C	file:
+DEFLATED	gzip.c	74;"	d	language:C	file:
+DEFLATED	zcat.c	145;"	d	language:C	file:
+DEV	mkswap.c	/^static int DEV = -1;$/;"	v	language:C	file:
+DEV	util-linux/mkswap.c	/^static int DEV = -1;$/;"	v	language:C	file:
+DIRENT	archival/gzip.c	422;"	d	language:C	file:
+DIRENT	archival/gzip.c	478;"	d	language:C	file:
+DIRENT	archival/gzip.c	483;"	d	language:C	file:
+DIRENT	archival/gzip.c	563;"	d	language:C	file:
+DIRENT	archival/gzip.c	583;"	d	language:C	file:
+DIRENT	gzip.c	422;"	d	language:C	file:
+DIRENT	gzip.c	478;"	d	language:C	file:
+DIRENT	gzip.c	483;"	d	language:C	file:
+DIRENT	gzip.c	563;"	d	language:C	file:
+DIRENT	gzip.c	583;"	d	language:C	file:
+DIR_NOLIST	coreutils/ls.c	126;"	d	language:C	file:
+DIR_NOLIST	ls.c	126;"	d	language:C	file:
+DIR_OPT	archival/gzip.c	1630;"	d	language:C	file:
+DIR_OPT	archival/gzip.c	1636;"	d	language:C	file:
+DIR_OPT	archival/gzip.c	1641;"	d	language:C	file:
+DIR_OPT	archival/gzip.c	1646;"	d	language:C	file:
+DIR_OPT	archival/gzip.c	1649;"	d	language:C	file:
+DIR_OPT	gzip.c	1630;"	d	language:C	file:
+DIR_OPT	gzip.c	1636;"	d	language:C	file:
+DIR_OPT	gzip.c	1641;"	d	language:C	file:
+DIR_OPT	gzip.c	1646;"	d	language:C	file:
+DIR_OPT	gzip.c	1649;"	d	language:C	file:
+DIR_OPT	zcat.c	582;"	d	language:C	file:
+DIR_OPT	zcat.c	588;"	d	language:C	file:
+DIR_OPT	zcat.c	593;"	d	language:C	file:
+DIR_OPT	zcat.c	598;"	d	language:C	file:
+DIR_OPT	zcat.c	601;"	d	language:C	file:
+DIR_RECURSE	coreutils/ls.c	128;"	d	language:C	file:
+DIR_RECURSE	ls.c	128;"	d	language:C	file:
+DISP_DIRNAME	coreutils/ls.c	127;"	d	language:C	file:
+DISP_DIRNAME	ls.c	127;"	d	language:C	file:
+DISP_DOT	coreutils/ls.c	123;"	d	language:C	file:
+DISP_DOT	ls.c	123;"	d	language:C	file:
+DISP_EXEC	coreutils/ls.c	121;"	d	language:C	file:
+DISP_EXEC	ls.c	121;"	d	language:C	file:
+DISP_FTYPE	coreutils/ls.c	120;"	d	language:C	file:
+DISP_FTYPE	ls.c	120;"	d	language:C	file:
+DISP_FULLTIME	coreutils/ls.c	125;"	d	language:C	file:
+DISP_FULLTIME	ls.c	125;"	d	language:C	file:
+DISP_HIDDEN	coreutils/ls.c	122;"	d	language:C	file:
+DISP_HIDDEN	ls.c	122;"	d	language:C	file:
+DISP_NUMERIC	coreutils/ls.c	124;"	d	language:C	file:
+DISP_NUMERIC	ls.c	124;"	d	language:C	file:
+DIST_BUFSIZE	archival/gzip.c	109;"	d	language:C	file:
+DIST_BUFSIZE	archival/gzip.c	111;"	d	language:C	file:
+DIST_BUFSIZE	archival/gzip.c	1986;"	d	language:C	file:
+DIST_BUFSIZE	gzip.c	109;"	d	language:C	file:
+DIST_BUFSIZE	gzip.c	111;"	d	language:C	file:
+DIST_BUFSIZE	gzip.c	1986;"	d	language:C	file:
+DIST_BUFSIZE	zcat.c	182;"	d	language:C	file:
+DIST_BUFSIZE	zcat.c	184;"	d	language:C	file:
+DUMPBITS	zcat.c	1531;"	d	language:C	file:
+DYN_ALLOC	archival/gzip.c	518;"	d	language:C	file:
+DYN_ALLOC	archival/gzip.c	602;"	d	language:C	file:
+DYN_ALLOC	gzip.c	518;"	d	language:C	file:
+DYN_ALLOC	gzip.c	602;"	d	language:C	file:
+DYN_TREES	archival/gzip.c	1971;"	d	language:C	file:
+DYN_TREES	gzip.c	1971;"	d	language:C	file:
+D_CODES	archival/gzip.c	1953;"	d	language:C	file:
+D_CODES	gzip.c	1953;"	d	language:C	file:
+Dad	archival/gzip.c	2039;"	d	language:C	file:
+Dad	gzip.c	2039;"	d	language:C	file:
+ENCRYPTED	archival/gzip.c	182;"	d	language:C	file:
+ENCRYPTED	gzip.c	182;"	d	language:C	file:
+ENCRYPTED	zcat.c	246;"	d	language:C	file:
+END_BLOCK	archival/gzip.c	1947;"	d	language:C	file:
+END_BLOCK	gzip.c	1947;"	d	language:C	file:
+EQUAL	archival/gzip.c	1138;"	d	language:C	file:
+EQUAL	gzip.c	1138;"	d	language:C	file:
+ERROR	archival/gzip.c	65;"	d	language:C	file:
+ERROR	gzip.c	65;"	d	language:C	file:
+ERROR	zcat.c	141;"	d	language:C	file:
+EXPAND	archival/gzip.c	479;"	d	language:C	file:
+EXPAND	archival/gzip.c	489;"	d	language:C	file:
+EXPAND	archival/gzip.c	548;"	d	language:C	file:
+EXPAND	archival/gzip.c	574;"	d	language:C	file:
+EXPAND	archival/gzip.c	690;"	d	language:C	file:
+EXPAND	gzip.c	479;"	d	language:C	file:
+EXPAND	gzip.c	489;"	d	language:C	file:
+EXPAND	gzip.c	548;"	d	language:C	file:
+EXPAND	gzip.c	574;"	d	language:C	file:
+EXPAND	gzip.c	690;"	d	language:C	file:
+EXPAND_ALLOC	internal.h	44;"	d	language:C++
+EXTERN	archival/gzip.c	116;"	d	language:C	file:
+EXTERN	archival/gzip.c	124;"	d	language:C	file:
+EXTERN	gzip.c	116;"	d	language:C	file:
+EXTERN	gzip.c	124;"	d	language:C	file:
+EXTERN	zcat.c	191;"	d	language:C	file:
+EXTERN	zcat.c	199;"	d	language:C	file:
+EXTFLG	zcat.c	920;"	d	language:C	file:
+EXTHDR	zcat.c	929;"	d	language:C	file:
+EXTRA_FIELD	archival/gzip.c	179;"	d	language:C	file:
+EXTRA_FIELD	gzip.c	179;"	d	language:C	file:
+EXTRA_FIELD	zcat.c	243;"	d	language:C	file:
+FALSE	internal.h	39;"	d	language:C++
+FAST	archival/gzip.c	1023;"	d	language:C	file:
+FAST	gzip.c	1023;"	d	language:C	file:
+FEATURE_AUTOWIDTH	coreutils/ls.c	46;"	d	language:C	file:
+FEATURE_AUTOWIDTH	ls.c	46;"	d	language:C	file:
+FEATURE_FILETYPECHAR	coreutils/ls.c	47;"	d	language:C	file:
+FEATURE_FILETYPECHAR	ls.c	47;"	d	language:C	file:
+FEATURE_TIMESTAMPS	coreutils/ls.c	45;"	d	language:C	file:
+FEATURE_TIMESTAMPS	ls.c	45;"	d	language:C	file:
+FEATURE_USERNAME	coreutils/ls.c	44;"	d	language:C	file:
+FEATURE_USERNAME	ls.c	44;"	d	language:C	file:
+FIRST	archival/gzip.c	363;"	d	language:C	file:
+FIRST	gzip.c	363;"	d	language:C	file:
+FIRST	zcat.c	413;"	d	language:C	file:
+FLUSH_BLOCK	archival/gzip.c	1455;"	d	language:C	file:
+FLUSH_BLOCK	gzip.c	1455;"	d	language:C	file:
+FMT_AUTO	coreutils/ls.c	110;"	d	language:C	file:
+FMT_AUTO	ls.c	110;"	d	language:C	file:
+FMT_COLUMNS	coreutils/ls.c	114;"	d	language:C	file:
+FMT_COLUMNS	ls.c	114;"	d	language:C	file:
+FMT_LONG	coreutils/ls.c	111;"	d	language:C	file:
+FMT_LONG	ls.c	111;"	d	language:C	file:
+FMT_ROWS	coreutils/ls.c	113;"	d	language:C	file:
+FMT_ROWS	ls.c	113;"	d	language:C	file:
+FMT_SINGLE	coreutils/ls.c	112;"	d	language:C	file:
+FMT_SINGLE	ls.c	112;"	d	language:C	file:
+FREE	archival/gzip.c	122;"	d	language:C	file:
+FREE	archival/gzip.c	127;"	d	language:C	file:
+FREE	gzip.c	122;"	d	language:C	file:
+FREE	gzip.c	127;"	d	language:C	file:
+FREE	zcat.c	197;"	d	language:C	file:
+FREE	zcat.c	202;"	d	language:C	file:
+FileInfo	internal.h	/^struct FileInfo {$/;"	s	language:C++
+Freq	archival/gzip.c	2037;"	d	language:C	file:
+Freq	gzip.c	2037;"	d	language:C	file:
+GZIP_MAGIC	archival/gzip.c	171;"	d	language:C	file:
+GZIP_MAGIC	gzip.c	171;"	d	language:C	file:
+GZIP_MAGIC	zcat.c	238;"	d	language:C	file:
+HASH_BITS	archival/gzip.c	1001;"	d	language:C	file:
+HASH_BITS	archival/gzip.c	995;"	d	language:C	file:
+HASH_BITS	archival/gzip.c	998;"	d	language:C	file:
+HASH_BITS	gzip.c	1001;"	d	language:C	file:
+HASH_BITS	gzip.c	995;"	d	language:C	file:
+HASH_BITS	gzip.c	998;"	d	language:C	file:
+HASH_MASK	archival/gzip.c	1016;"	d	language:C	file:
+HASH_MASK	gzip.c	1016;"	d	language:C	file:
+HASH_SIZE	archival/gzip.c	1015;"	d	language:C	file:
+HASH_SIZE	gzip.c	1015;"	d	language:C	file:
+HAS_REWINDDIR	coreutils/ls.c	57;"	d	language:C	file:
+HAS_REWINDDIR	ls.c	57;"	d	language:C	file:
+HAVE_SYS_UTIME_H	archival/gzip.c	427;"	d	language:C	file:
+HAVE_SYS_UTIME_H	archival/gzip.c	469;"	d	language:C	file:
+HAVE_SYS_UTIME_H	archival/gzip.c	476;"	d	language:C	file:
+HAVE_SYS_UTIME_H	archival/gzip.c	495;"	d	language:C	file:
+HAVE_SYS_UTIME_H	gzip.c	427;"	d	language:C	file:
+HAVE_SYS_UTIME_H	gzip.c	469;"	d	language:C	file:
+HAVE_SYS_UTIME_H	gzip.c	476;"	d	language:C	file:
+HAVE_SYS_UTIME_H	gzip.c	495;"	d	language:C	file:
+HAVE_UNISTD_H	archival/gzip.c	564;"	d	language:C	file:
+HAVE_UNISTD_H	archival/gzip.c	582;"	d	language:C	file:
+HAVE_UNISTD_H	gzip.c	564;"	d	language:C	file:
+HAVE_UNISTD_H	gzip.c	582;"	d	language:C	file:
+HEAP_SIZE	archival/gzip.c	2042;"	d	language:C	file:
+HEAP_SIZE	gzip.c	2042;"	d	language:C	file:
+H_SHIFT	archival/gzip.c	1074;"	d	language:C	file:
+H_SHIFT	gzip.c	1074;"	d	language:C	file:
+INBUFSIZ	archival/gzip.c	91;"	d	language:C	file:
+INBUFSIZ	archival/gzip.c	93;"	d	language:C	file:
+INBUFSIZ	gzip.c	91;"	d	language:C	file:
+INBUFSIZ	gzip.c	93;"	d	language:C	file:
+INBUFSIZ	zcat.c	162;"	d	language:C	file:
+INBUFSIZ	zcat.c	164;"	d	language:C	file:
+INBUF_EXTRA	archival/gzip.c	96;"	d	language:C	file:
+INBUF_EXTRA	gzip.c	96;"	d	language:C	file:
+INBUF_EXTRA	zcat.c	167;"	d	language:C	file:
+INIT_BITS	archival/gzip.c	343;"	d	language:C	file:
+INIT_BITS	gzip.c	343;"	d	language:C	file:
+INIT_BITS	zcat.c	391;"	d	language:C	file:
+INSERT_STRING	archival/gzip.c	1171;"	d	language:C	file:
+INSERT_STRING	gzip.c	1171;"	d	language:C	file:
+IN_CTYPE_DOMAIN	coreutils/printf.c	99;"	d	language:C	file:
+IN_CTYPE_DOMAIN	printf.c	99;"	d	language:C	file:
+IPos	archival/gzip.c	/^typedef unsigned IPos;$/;"	t	language:C	file:
+IPos	gzip.c	/^typedef unsigned IPos;$/;"	t	language:C	file:
+ISALNUM	coreutils/printf.c	113;"	d	language:C	file:
+ISALNUM	printf.c	113;"	d	language:C	file:
+ISALPHA	coreutils/printf.c	114;"	d	language:C	file:
+ISALPHA	printf.c	114;"	d	language:C	file:
+ISBLANK	coreutils/printf.c	102;"	d	language:C	file:
+ISBLANK	coreutils/printf.c	104;"	d	language:C	file:
+ISBLANK	printf.c	102;"	d	language:C	file:
+ISBLANK	printf.c	104;"	d	language:C	file:
+ISCNTRL	coreutils/printf.c	115;"	d	language:C	file:
+ISCNTRL	printf.c	115;"	d	language:C	file:
+ISDIGIT	coreutils/printf.c	122;"	d	language:C	file:
+ISDIGIT	printf.c	122;"	d	language:C	file:
+ISDIGIT_LOCALE	coreutils/printf.c	121;"	d	language:C	file:
+ISDIGIT_LOCALE	printf.c	121;"	d	language:C	file:
+ISGRAPH	coreutils/printf.c	107;"	d	language:C	file:
+ISGRAPH	coreutils/printf.c	109;"	d	language:C	file:
+ISGRAPH	printf.c	107;"	d	language:C	file:
+ISGRAPH	printf.c	109;"	d	language:C	file:
+ISLOWER	coreutils/printf.c	116;"	d	language:C	file:
+ISLOWER	printf.c	116;"	d	language:C	file:
+ISPRINT	coreutils/printf.c	112;"	d	language:C	file:
+ISPRINT	printf.c	112;"	d	language:C	file:
+ISPUNCT	coreutils/printf.c	117;"	d	language:C	file:
+ISPUNCT	printf.c	117;"	d	language:C	file:
+ISSPACE	coreutils/printf.c	118;"	d	language:C	file:
+ISSPACE	printf.c	118;"	d	language:C	file:
+ISUPPER	coreutils/printf.c	119;"	d	language:C	file:
+ISUPPER	printf.c	119;"	d	language:C	file:
+ISXDIGIT	coreutils/printf.c	120;"	d	language:C	file:
+ISXDIGIT	printf.c	120;"	d	language:C	file:
+LDFLAGS	Makefile	/^LDFLAGS= -s$/;"	m	language:Make
+LENGTH_CODES	archival/gzip.c	1941;"	d	language:C	file:
+LENGTH_CODES	gzip.c	1941;"	d	language:C	file:
+LG	archival/gzip.c	253;"	d	language:C	file:
+LG	gzip.c	253;"	d	language:C	file:
+LG	zcat.c	311;"	d	language:C	file:
+LIBRARIES	Makefile	/^LIBRARIES=-lc$/;"	m	language:Make
+LITERALS	archival/gzip.c	1944;"	d	language:C	file:
+LITERALS	gzip.c	1944;"	d	language:C	file:
+LIT_BUFSIZE	archival/gzip.c	1976;"	d	language:C	file:
+LIT_BUFSIZE	archival/gzip.c	1979;"	d	language:C	file:
+LIT_BUFSIZE	archival/gzip.c	1981;"	d	language:C	file:
+LIT_BUFSIZE	gzip.c	1976;"	d	language:C	file:
+LIT_BUFSIZE	gzip.c	1979;"	d	language:C	file:
+LIT_BUFSIZE	gzip.c	1981;"	d	language:C	file:
+LOCCRC	zcat.c	923;"	d	language:C	file:
+LOCEXT	zcat.c	927;"	d	language:C	file:
+LOCFIL	zcat.c	926;"	d	language:C	file:
+LOCFLG	zcat.c	918;"	d	language:C	file:
+LOCHDR	zcat.c	928;"	d	language:C	file:
+LOCHOW	zcat.c	921;"	d	language:C	file:
+LOCLEN	zcat.c	925;"	d	language:C	file:
+LOCSIG	zcat.c	917;"	d	language:C	file:
+LOCSIZ	zcat.c	924;"	d	language:C	file:
+LOCTIM	zcat.c	922;"	d	language:C	file:
+LOOP_CLR_FD	losetup.c	63;"	d	language:C	file:
+LOOP_GET_STATUS	losetup.c	65;"	d	language:C	file:
+LOOP_SET_FD	losetup.c	62;"	d	language:C	file:
+LOOP_SET_STATUS	losetup.c	64;"	d	language:C	file:
+LO_KEY_SIZE	losetup.c	41;"	d	language:C	file:
+LO_NAME_SIZE	losetup.c	40;"	d	language:C	file:
+LZHED	archival/gzip.c	72;"	d	language:C	file:
+LZHED	gzip.c	72;"	d	language:C	file:
+LZH_MAGIC	archival/gzip.c	173;"	d	language:C	file:
+LZH_MAGIC	gzip.c	173;"	d	language:C	file:
+LZW	archival/gzip.c	380;"	d	language:C	file:
+LZW	gzip.c	380;"	d	language:C	file:
+LZW	zcat.c	436;"	d	language:C	file:
+LZW_MAGIC	zcat.c	393;"	d	language:C	file:
+LZW_RESERVED	archival/gzip.c	360;"	d	language:C	file:
+LZW_RESERVED	gzip.c	360;"	d	language:C	file:
+LZW_RESERVED	zcat.c	410;"	d	language:C	file:
+L_CODES	archival/gzip.c	1950;"	d	language:C	file:
+L_CODES	gzip.c	1950;"	d	language:C	file:
+Len	archival/gzip.c	2040;"	d	language:C	file:
+Len	gzip.c	2040;"	d	language:C	file:
+MAJOR	coreutils/ls.c	85;"	d	language:C	file:
+MAJOR	ls.c	85;"	d	language:C	file:
+MAKE_LEGAL_NAME	archival/gzip.c	678;"	d	language:C	file:
+MAKE_LEGAL_NAME	archival/gzip.c	680;"	d	language:C	file:
+MAKE_LEGAL_NAME	gzip.c	678;"	d	language:C	file:
+MAKE_LEGAL_NAME	gzip.c	680;"	d	language:C	file:
+MAX	archival/gzip.c	2190;"	d	language:C	file:
+MAX	gzip.c	2190;"	d	language:C	file:
+MAXSEG_64K	archival/gzip.c	418;"	d	language:C	file:
+MAXSEG_64K	archival/gzip.c	471;"	d	language:C	file:
+MAXSEG_64K	gzip.c	418;"	d	language:C	file:
+MAXSEG_64K	gzip.c	471;"	d	language:C	file:
+MAX_BITS	archival/gzip.c	1935;"	d	language:C	file:
+MAX_BITS	gzip.c	1935;"	d	language:C	file:
+MAX_BL_BITS	archival/gzip.c	1938;"	d	language:C	file:
+MAX_BL_BITS	gzip.c	1938;"	d	language:C	file:
+MAX_DIST	archival/gzip.c	203;"	d	language:C	file:
+MAX_DIST	gzip.c	203;"	d	language:C	file:
+MAX_DIST	zcat.c	262;"	d	language:C	file:
+MAX_EXT_CHARS	archival/gzip.c	435;"	d	language:C	file:
+MAX_EXT_CHARS	archival/gzip.c	458;"	d	language:C	file:
+MAX_EXT_CHARS	archival/gzip.c	508;"	d	language:C	file:
+MAX_EXT_CHARS	archival/gzip.c	592;"	d	language:C	file:
+MAX_EXT_CHARS	gzip.c	435;"	d	language:C	file:
+MAX_EXT_CHARS	gzip.c	458;"	d	language:C	file:
+MAX_EXT_CHARS	gzip.c	508;"	d	language:C	file:
+MAX_EXT_CHARS	gzip.c	592;"	d	language:C	file:
+MAX_MATCH	archival/gzip.c	195;"	d	language:C	file:
+MAX_MATCH	gzip.c	195;"	d	language:C	file:
+MAX_MATCH	zcat.c	254;"	d	language:C	file:
+MAX_METHODS	archival/gzip.c	75;"	d	language:C	file:
+MAX_METHODS	gzip.c	75;"	d	language:C	file:
+MAX_PATH_LEN	archival/gzip.c	1708;"	d	language:C	file:
+MAX_PATH_LEN	archival/gzip.c	433;"	d	language:C	file:
+MAX_PATH_LEN	archival/gzip.c	455;"	d	language:C	file:
+MAX_PATH_LEN	archival/gzip.c	499;"	d	language:C	file:
+MAX_PATH_LEN	archival/gzip.c	590;"	d	language:C	file:
+MAX_PATH_LEN	gzip.c	1708;"	d	language:C	file:
+MAX_PATH_LEN	gzip.c	433;"	d	language:C	file:
+MAX_PATH_LEN	gzip.c	455;"	d	language:C	file:
+MAX_PATH_LEN	gzip.c	499;"	d	language:C	file:
+MAX_PATH_LEN	gzip.c	590;"	d	language:C	file:
+MAX_PATH_LEN	zcat.c	640;"	d	language:C	file:
+MAX_SUFFIX	archival/gzip.c	671;"	d	language:C	file:
+MAX_SUFFIX	archival/gzip.c	673;"	d	language:C	file:
+MAX_SUFFIX	gzip.c	671;"	d	language:C	file:
+MAX_SUFFIX	gzip.c	673;"	d	language:C	file:
+MBIT	coreutils/ls.c	/^static const umode_t MBIT[] = {$/;"	v	language:C	file:
+MBIT	ls.c	/^static const umode_t MBIT[] = {$/;"	v	language:C	file:
+MINOR	coreutils/ls.c	86;"	d	language:C	file:
+MINOR	ls.c	86;"	d	language:C	file:
+MIN_LOOKAHEAD	archival/gzip.c	198;"	d	language:C	file:
+MIN_LOOKAHEAD	gzip.c	198;"	d	language:C	file:
+MIN_LOOKAHEAD	zcat.c	257;"	d	language:C	file:
+MIN_MATCH	archival/gzip.c	194;"	d	language:C	file:
+MIN_MATCH	gzip.c	194;"	d	language:C	file:
+MIN_MATCH	zcat.c	253;"	d	language:C	file:
+MIN_PART	archival/gzip.c	685;"	d	language:C	file:
+MIN_PART	gzip.c	685;"	d	language:C	file:
+MODE0	coreutils/ls.c	90;"	d	language:C	file:
+MODE0	ls.c	90;"	d	language:C	file:
+MODE1	coreutils/ls.c	89;"	d	language:C	file:
+MODE1	ls.c	89;"	d	language:C	file:
+MSDOS	archival/gzip.c	397;"	d	language:C	file:
+MSDOS	archival/gzip.c	405;"	d	language:C	file:
+MSDOS	gzip.c	397;"	d	language:C	file:
+MSDOS	gzip.c	405;"	d	language:C	file:
+NEEDBITS	zcat.c	1530;"	d	language:C	file:
+NEXTBYTE	zcat.c	1526;"	d	language:C	file:
+NEXTBYTE	zcat.c	1528;"	d	language:C	file:
+NIL	archival/gzip.c	1020;"	d	language:C	file:
+NIL	gzip.c	1020;"	d	language:C	file:
+NLENGTH	archival/gzip.c	1629;"	d	language:C	file:
+NLENGTH	archival/gzip.c	1632;"	d	language:C	file:
+NLENGTH	gzip.c	1629;"	d	language:C	file:
+NLENGTH	gzip.c	1632;"	d	language:C	file:
+NLENGTH	zcat.c	581;"	d	language:C	file:
+NLENGTH	zcat.c	584;"	d	language:C	file:
+NOMEMCPY	archival/gzip.c	636;"	d	language:C	file:
+NOMEMCPY	gzip.c	636;"	d	language:C	file:
+NO_CHOWN	archival/gzip.c	437;"	d	language:C	file:
+NO_CHOWN	archival/gzip.c	462;"	d	language:C	file:
+NO_CHOWN	archival/gzip.c	500;"	d	language:C	file:
+NO_CHOWN	archival/gzip.c	569;"	d	language:C	file:
+NO_CHOWN	archival/gzip.c	594;"	d	language:C	file:
+NO_CHOWN	archival/gzip.c	605;"	d	language:C	file:
+NO_CHOWN	archival/gzip.c	621;"	d	language:C	file:
+NO_CHOWN	gzip.c	437;"	d	language:C	file:
+NO_CHOWN	gzip.c	462;"	d	language:C	file:
+NO_CHOWN	gzip.c	500;"	d	language:C	file:
+NO_CHOWN	gzip.c	569;"	d	language:C	file:
+NO_CHOWN	gzip.c	594;"	d	language:C	file:
+NO_CHOWN	gzip.c	605;"	d	language:C	file:
+NO_CHOWN	gzip.c	621;"	d	language:C	file:
+NO_DIR	archival/gzip.c	1648;"	d	language:C	file:
+NO_DIR	archival/gzip.c	486;"	d	language:C	file:
+NO_DIR	gzip.c	1648;"	d	language:C	file:
+NO_DIR	gzip.c	486;"	d	language:C	file:
+NO_DIR	zcat.c	600;"	d	language:C	file:
+NO_FCNTL_H	archival/gzip.c	552;"	d	language:C	file:
+NO_FCNTL_H	archival/gzip.c	570;"	d	language:C	file:
+NO_FCNTL_H	gzip.c	552;"	d	language:C	file:
+NO_FCNTL_H	gzip.c	570;"	d	language:C	file:
+NO_FILE	archival/gzip.c	167;"	d	language:C	file:
+NO_FILE	gzip.c	167;"	d	language:C	file:
+NO_FILE	zcat.c	235;"	d	language:C	file:
+NO_MEMORY_H	archival/gzip.c	618;"	d	language:C	file:
+NO_MEMORY_H	gzip.c	618;"	d	language:C	file:
+NO_MULTIPLE_DOTS	archival/gzip.c	434;"	d	language:C	file:
+NO_MULTIPLE_DOTS	archival/gzip.c	457;"	d	language:C	file:
+NO_MULTIPLE_DOTS	archival/gzip.c	507;"	d	language:C	file:
+NO_MULTIPLE_DOTS	archival/gzip.c	540;"	d	language:C	file:
+NO_MULTIPLE_DOTS	archival/gzip.c	591;"	d	language:C	file:
+NO_MULTIPLE_DOTS	gzip.c	434;"	d	language:C	file:
+NO_MULTIPLE_DOTS	gzip.c	457;"	d	language:C	file:
+NO_MULTIPLE_DOTS	gzip.c	507;"	d	language:C	file:
+NO_MULTIPLE_DOTS	gzip.c	540;"	d	language:C	file:
+NO_MULTIPLE_DOTS	gzip.c	591;"	d	language:C	file:
+NO_OFF_T	archival/gzip.c	420;"	d	language:C	file:
+NO_OFF_T	gzip.c	420;"	d	language:C	file:
+NO_SIZE_CHECK	archival/gzip.c	440;"	d	language:C	file:
+NO_SIZE_CHECK	archival/gzip.c	623;"	d	language:C	file:
+NO_SIZE_CHECK	gzip.c	440;"	d	language:C	file:
+NO_SIZE_CHECK	gzip.c	623;"	d	language:C	file:
+NO_STDIN_FSTAT	archival/gzip.c	566;"	d	language:C	file:
+NO_STDIN_FSTAT	archival/gzip.c	604;"	d	language:C	file:
+NO_STDIN_FSTAT	archival/gzip.c	622;"	d	language:C	file:
+NO_STDIN_FSTAT	gzip.c	566;"	d	language:C	file:
+NO_STDIN_FSTAT	gzip.c	604;"	d	language:C	file:
+NO_STDIN_FSTAT	gzip.c	622;"	d	language:C	file:
+NO_ST_INO	archival/gzip.c	644;"	d	language:C	file:
+NO_ST_INO	gzip.c	644;"	d	language:C	file:
+NO_SYMLINK	archival/gzip.c	568;"	d	language:C	file:
+NO_SYMLINK	archival/gzip.c	596;"	d	language:C	file:
+NO_SYMLINK	archival/gzip.c	624;"	d	language:C	file:
+NO_SYMLINK	gzip.c	568;"	d	language:C	file:
+NO_SYMLINK	gzip.c	596;"	d	language:C	file:
+NO_SYMLINK	gzip.c	624;"	d	language:C	file:
+NO_UTIME	archival/gzip.c	424;"	d	language:C	file:
+NO_UTIME	archival/gzip.c	547;"	d	language:C	file:
+NO_UTIME	archival/gzip.c	606;"	d	language:C	file:
+NO_UTIME	archival/gzip.c	620;"	d	language:C	file:
+NO_UTIME	gzip.c	424;"	d	language:C	file:
+NO_UTIME	gzip.c	547;"	d	language:C	file:
+NO_UTIME	gzip.c	606;"	d	language:C	file:
+NO_UTIME	gzip.c	620;"	d	language:C	file:
+NO_UTIME_H	archival/gzip.c	428;"	d	language:C	file:
+NO_UTIME_H	archival/gzip.c	470;"	d	language:C	file:
+NO_UTIME_H	archival/gzip.c	477;"	d	language:C	file:
+NO_UTIME_H	archival/gzip.c	487;"	d	language:C	file:
+NO_UTIME_H	archival/gzip.c	496;"	d	language:C	file:
+NO_UTIME_H	archival/gzip.c	619;"	d	language:C	file:
+NO_UTIME_H	gzip.c	428;"	d	language:C	file:
+NO_UTIME_H	gzip.c	470;"	d	language:C	file:
+NO_UTIME_H	gzip.c	477;"	d	language:C	file:
+NO_UTIME_H	gzip.c	487;"	d	language:C	file:
+NO_UTIME_H	gzip.c	496;"	d	language:C	file:
+NO_UTIME_H	gzip.c	619;"	d	language:C	file:
+N_MAX	zcat.c	1573;"	d	language:C	file:
+OBJECTS	Makefile	/^OBJECTS=$(shell .\/busybox.sh) utility.o$/;"	m	language:Make
+OF	archival/gzip.c	23;"	d	language:C	file:
+OF	archival/gzip.c	25;"	d	language:C	file:
+OF	gzip.c	23;"	d	language:C	file:
+OF	gzip.c	25;"	d	language:C	file:
+OF	zcat.c	101;"	d	language:C	file:
+OF	zcat.c	99;"	d	language:C	file:
+OK	archival/gzip.c	64;"	d	language:C	file:
+OK	gzip.c	64;"	d	language:C	file:
+OK	zcat.c	140;"	d	language:C	file:
+OLD_GZIP_MAGIC	archival/gzip.c	172;"	d	language:C	file:
+OLD_GZIP_MAGIC	gzip.c	172;"	d	language:C	file:
+OPEN	archival/gzip.c	608;"	d	language:C	file:
+OPEN	archival/gzip.c	702;"	d	language:C	file:
+OPEN	gzip.c	608;"	d	language:C	file:
+OPEN	gzip.c	702;"	d	language:C	file:
+OPTIONS_VAR	archival/gzip.c	545;"	d	language:C	file:
+OPTIONS_VAR	archival/gzip.c	663;"	d	language:C	file:
+OPTIONS_VAR	gzip.c	545;"	d	language:C	file:
+OPTIONS_VAR	gzip.c	663;"	d	language:C	file:
+OP_BUF_SIZE	coreutils/ls.c	49;"	d	language:C	file:
+OP_BUF_SIZE	ls.c	49;"	d	language:C	file:
+ORIG_NAME	archival/gzip.c	180;"	d	language:C	file:
+ORIG_NAME	gzip.c	180;"	d	language:C	file:
+ORIG_NAME	zcat.c	244;"	d	language:C	file:
+OS2	archival/gzip.c	401;"	d	language:C	file:
+OS2	gzip.c	401;"	d	language:C	file:
+OS_CODE	archival/gzip.c	443;"	d	language:C	file:
+OS_CODE	archival/gzip.c	466;"	d	language:C	file:
+OS_CODE	archival/gzip.c	512;"	d	language:C	file:
+OS_CODE	archival/gzip.c	544;"	d	language:C	file:
+OS_CODE	archival/gzip.c	560;"	d	language:C	file:
+OS_CODE	archival/gzip.c	586;"	d	language:C	file:
+OS_CODE	archival/gzip.c	609;"	d	language:C	file:
+OS_CODE	archival/gzip.c	629;"	d	language:C	file:
+OS_CODE	archival/gzip.c	640;"	d	language:C	file:
+OS_CODE	archival/gzip.c	651;"	d	language:C	file:
+OS_CODE	gzip.c	443;"	d	language:C	file:
+OS_CODE	gzip.c	466;"	d	language:C	file:
+OS_CODE	gzip.c	512;"	d	language:C	file:
+OS_CODE	gzip.c	544;"	d	language:C	file:
+OS_CODE	gzip.c	560;"	d	language:C	file:
+OS_CODE	gzip.c	586;"	d	language:C	file:
+OS_CODE	gzip.c	609;"	d	language:C	file:
+OS_CODE	gzip.c	629;"	d	language:C	file:
+OS_CODE	gzip.c	640;"	d	language:C	file:
+OS_CODE	gzip.c	651;"	d	language:C	file:
+OUTBUFSIZ	archival/gzip.c	100;"	d	language:C	file:
+OUTBUFSIZ	archival/gzip.c	102;"	d	language:C	file:
+OUTBUFSIZ	gzip.c	100;"	d	language:C	file:
+OUTBUFSIZ	gzip.c	102;"	d	language:C	file:
+OUTBUFSIZ	zcat.c	171;"	d	language:C	file:
+OUTBUFSIZ	zcat.c	173;"	d	language:C	file:
+OUTBUF_EXTRA	archival/gzip.c	105;"	d	language:C	file:
+OUTBUF_EXTRA	gzip.c	105;"	d	language:C	file:
+OUTBUF_EXTRA	zcat.c	176;"	d	language:C	file:
+O_BINARY	archival/gzip.c	1685;"	d	language:C	file:
+O_BINARY	archival/gzip.c	575;"	d	language:C	file:
+O_BINARY	gzip.c	1685;"	d	language:C	file:
+O_BINARY	gzip.c	575;"	d	language:C	file:
+O_BINARY	zcat.c	617;"	d	language:C	file:
+O_CREAT	archival/gzip.c	1692;"	d	language:C	file:
+O_CREAT	gzip.c	1692;"	d	language:C	file:
+O_CREAT	zcat.c	624;"	d	language:C	file:
+O_EXCL	archival/gzip.c	1695;"	d	language:C	file:
+O_EXCL	gzip.c	1695;"	d	language:C	file:
+O_EXCL	zcat.c	627;"	d	language:C	file:
+PACKED	archival/gzip.c	71;"	d	language:C	file:
+PACKED	gzip.c	71;"	d	language:C	file:
+PACK_MAGIC	archival/gzip.c	170;"	d	language:C	file:
+PACK_MAGIC	gzip.c	170;"	d	language:C	file:
+PAGES	mkswap.c	/^static long PAGES = 0;$/;"	v	language:C	file:
+PAGES	util-linux/mkswap.c	/^static long PAGES = 0;$/;"	v	language:C	file:
+PARAM	coreutils/dd.c	/^} PARAM;$/;"	t	language:C	typeref:struct:__anon12	file:
+PARAM	dd.c	/^} PARAM;$/;"	t	language:C	typeref:struct:__anon11	file:
+PART_SEP	archival/gzip.c	1722;"	d	language:C	file:
+PART_SEP	archival/gzip.c	1724;"	d	language:C	file:
+PART_SEP	gzip.c	1722;"	d	language:C	file:
+PART_SEP	gzip.c	1724;"	d	language:C	file:
+PAR_BS	coreutils/dd.c	38;"	d	language:C	file:
+PAR_BS	dd.c	38;"	d	language:C	file:
+PAR_COUNT	coreutils/dd.c	39;"	d	language:C	file:
+PAR_COUNT	dd.c	39;"	d	language:C	file:
+PAR_IF	coreutils/dd.c	36;"	d	language:C	file:
+PAR_IF	dd.c	36;"	d	language:C	file:
+PAR_NONE	coreutils/dd.c	35;"	d	language:C	file:
+PAR_NONE	dd.c	35;"	d	language:C	file:
+PAR_OF	coreutils/dd.c	37;"	d	language:C	file:
+PAR_OF	dd.c	37;"	d	language:C	file:
+PATCHLEVEL	archival/gzip.c	375;"	d	language:C	file:
+PATCHLEVEL	gzip.c	375;"	d	language:C	file:
+PATCHLEVEL	zcat.c	431;"	d	language:C	file:
+PATH_LEN	internal.h	42;"	d	language:C++
+PATH_SEP	archival/gzip.c	537;"	d	language:C	file:
+PATH_SEP	archival/gzip.c	601;"	d	language:C	file:
+PATH_SEP	archival/gzip.c	616;"	d	language:C	file:
+PATH_SEP	archival/gzip.c	655;"	d	language:C	file:
+PATH_SEP	gzip.c	537;"	d	language:C	file:
+PATH_SEP	gzip.c	601;"	d	language:C	file:
+PATH_SEP	gzip.c	616;"	d	language:C	file:
+PATH_SEP	gzip.c	655;"	d	language:C	file:
+PATH_SEP2	archival/gzip.c	431;"	d	language:C	file:
+PATH_SEP2	archival/gzip.c	453;"	d	language:C	file:
+PATH_SEP2	archival/gzip.c	497;"	d	language:C	file:
+PATH_SEP2	archival/gzip.c	538;"	d	language:C	file:
+PATH_SEP2	archival/gzip.c	558;"	d	language:C	file:
+PATH_SEP2	archival/gzip.c	588;"	d	language:C	file:
+PATH_SEP2	gzip.c	431;"	d	language:C	file:
+PATH_SEP2	gzip.c	453;"	d	language:C	file:
+PATH_SEP2	gzip.c	497;"	d	language:C	file:
+PATH_SEP2	gzip.c	538;"	d	language:C	file:
+PATH_SEP2	gzip.c	558;"	d	language:C	file:
+PATH_SEP2	gzip.c	588;"	d	language:C	file:
+PATH_SEP3	archival/gzip.c	432;"	d	language:C	file:
+PATH_SEP3	archival/gzip.c	454;"	d	language:C	file:
+PATH_SEP3	archival/gzip.c	498;"	d	language:C	file:
+PATH_SEP3	archival/gzip.c	589;"	d	language:C	file:
+PATH_SEP3	gzip.c	432;"	d	language:C	file:
+PATH_SEP3	gzip.c	454;"	d	language:C	file:
+PATH_SEP3	gzip.c	498;"	d	language:C	file:
+PATH_SEP3	gzip.c	589;"	d	language:C	file:
+PKZIP_MAGIC	archival/gzip.c	174;"	d	language:C	file:
+PKZIP_MAGIC	gzip.c	174;"	d	language:C	file:
+PROTO	archival/gzip.c	438;"	d	language:C	file:
+PROTO	archival/gzip.c	463;"	d	language:C	file:
+PROTO	archival/gzip.c	501;"	d	language:C	file:
+PROTO	archival/gzip.c	603;"	d	language:C	file:
+PROTO	gzip.c	438;"	d	language:C	file:
+PROTO	gzip.c	463;"	d	language:C	file:
+PROTO	gzip.c	501;"	d	language:C	file:
+PROTO	gzip.c	603;"	d	language:C	file:
+Pos	archival/gzip.c	/^typedef ush Pos;$/;"	t	language:C	file:
+Pos	gzip.c	/^typedef ush Pos;$/;"	t	language:C	file:
+RAND_HEAD_LEN	zcat.c	911;"	d	language:C	file:
+RECORD_IO	archival/gzip.c	542;"	d	language:C	file:
+RECORD_IO	archival/gzip.c	625;"	d	language:C	file:
+RECORD_IO	archival/gzip.c	694;"	d	language:C	file:
+RECORD_IO	gzip.c	542;"	d	language:C	file:
+RECORD_IO	gzip.c	625;"	d	language:C	file:
+RECORD_IO	gzip.c	694;"	d	language:C	file:
+RECORD_IO	zcat.c	85;"	d	language:C	file:
+REPZ_11_138	archival/gzip.c	2018;"	d	language:C	file:
+REPZ_11_138	gzip.c	2018;"	d	language:C	file:
+REPZ_3_10	archival/gzip.c	2015;"	d	language:C	file:
+REPZ_3_10	gzip.c	2015;"	d	language:C	file:
+REP_3_6	archival/gzip.c	2012;"	d	language:C	file:
+REP_3_6	gzip.c	2012;"	d	language:C	file:
+RESERVED	archival/gzip.c	183;"	d	language:C	file:
+RESERVED	gzip.c	183;"	d	language:C	file:
+RESERVED	zcat.c	247;"	d	language:C	file:
+RETSIGTYPE	archival/gzip.c	54;"	d	language:C	file:
+RETSIGTYPE	gzip.c	54;"	d	language:C	file:
+RETSIGTYPE	zcat.c	130;"	d	language:C	file:
+REVDATE	archival/gzip.c	376;"	d	language:C	file:
+REVDATE	gzip.c	376;"	d	language:C	file:
+REVDATE	zcat.c	432;"	d	language:C	file:
+RW_USER	archival/gzip.c	1705;"	d	language:C	file:
+RW_USER	gzip.c	1705;"	d	language:C	file:
+RW_USER	zcat.c	637;"	d	language:C	file:
+SBIT	coreutils/ls.c	/^static const umode_t SBIT[] = {$/;"	v	language:C	file:
+SBIT	ls.c	/^static const umode_t SBIT[] = {$/;"	v	language:C	file:
+SEEK_END	archival/gzip.c	1712;"	d	language:C	file:
+SEEK_END	gzip.c	1712;"	d	language:C	file:
+SEEK_END	zcat.c	644;"	d	language:C	file:
+SET_BINARY_MODE	archival/gzip.c	444;"	d	language:C	file:
+SET_BINARY_MODE	archival/gzip.c	467;"	d	language:C	file:
+SET_BINARY_MODE	archival/gzip.c	503;"	d	language:C	file:
+SET_BINARY_MODE	archival/gzip.c	698;"	d	language:C	file:
+SET_BINARY_MODE	gzip.c	444;"	d	language:C	file:
+SET_BINARY_MODE	gzip.c	467;"	d	language:C	file:
+SET_BINARY_MODE	gzip.c	503;"	d	language:C	file:
+SET_BINARY_MODE	gzip.c	698;"	d	language:C	file:
+SH	archival/gzip.c	252;"	d	language:C	file:
+SH	gzip.c	252;"	d	language:C	file:
+SH	zcat.c	310;"	d	language:C	file:
+SIGTERM	archival/gzip.c	631;"	d	language:C	file:
+SIGTERM	gzip.c	631;"	d	language:C	file:
+SLOW	archival/gzip.c	1024;"	d	language:C	file:
+SLOW	gzip.c	1024;"	d	language:C	file:
+SMALLEST	archival/gzip.c	2288;"	d	language:C	file:
+SMALLEST	gzip.c	2288;"	d	language:C	file:
+SMALL_MEM	zcat.c	178;"	d	language:C	file:
+SMODE0	coreutils/ls.c	92;"	d	language:C	file:
+SMODE0	ls.c	92;"	d	language:C	file:
+SMODE1	coreutils/ls.c	91;"	d	language:C	file:
+SMODE1	ls.c	91;"	d	language:C	file:
+STATIC_TREES	archival/gzip.c	1970;"	d	language:C	file:
+STATIC_TREES	gzip.c	1970;"	d	language:C	file:
+STDC_HEADERS	archival/gzip.c	439;"	d	language:C	file:
+STDC_HEADERS	archival/gzip.c	464;"	d	language:C	file:
+STDC_HEADERS	archival/gzip.c	502;"	d	language:C	file:
+STDC_HEADERS	archival/gzip.c	546;"	d	language:C	file:
+STDC_HEADERS	archival/gzip.c	559;"	d	language:C	file:
+STDC_HEADERS	archival/gzip.c	581;"	d	language:C	file:
+STDC_HEADERS	archival/gzip.c	617;"	d	language:C	file:
+STDC_HEADERS	gzip.c	439;"	d	language:C	file:
+STDC_HEADERS	gzip.c	464;"	d	language:C	file:
+STDC_HEADERS	gzip.c	502;"	d	language:C	file:
+STDC_HEADERS	gzip.c	546;"	d	language:C	file:
+STDC_HEADERS	gzip.c	559;"	d	language:C	file:
+STDC_HEADERS	gzip.c	581;"	d	language:C	file:
+STDC_HEADERS	gzip.c	617;"	d	language:C	file:
+STDIN	internal.h	37;"	d	language:C++
+STDOUT	internal.h	38;"	d	language:C++
+STORED	archival/gzip.c	69;"	d	language:C	file:
+STORED	gzip.c	69;"	d	language:C	file:
+STORED_BLOCK	archival/gzip.c	1969;"	d	language:C	file:
+STORED_BLOCK	gzip.c	1969;"	d	language:C	file:
+STRIP	Makefile	/^STRIP= strip --remove-section=.note --remove-section=.comment busybox$/;"	m	language:Make
+SUFFIX_SEP	archival/gzip.c	539;"	d	language:C	file:
+SUFFIX_SEP	gzip.c	539;"	d	language:C	file:
+SYSDIR	archival/gzip.c	567;"	d	language:C	file:
+SYSDIR	gzip.c	567;"	d	language:C	file:
+S_IFMT	coreutils/printf.c	68;"	d	language:C	file:
+S_IFMT	printf.c	68;"	d	language:C	file:
+S_IRUSR	archival/gzip.c	1700;"	d	language:C	file:
+S_IRUSR	gzip.c	1700;"	d	language:C	file:
+S_IRUSR	zcat.c	632;"	d	language:C	file:
+S_ISBLK	coreutils/printf.c	71;"	d	language:C	file:
+S_ISBLK	printf.c	71;"	d	language:C	file:
+S_ISCHR	coreutils/printf.c	74;"	d	language:C	file:
+S_ISCHR	printf.c	74;"	d	language:C	file:
+S_ISDIR	archival/gzip.c	1676;"	d	language:C	file:
+S_ISDIR	coreutils/printf.c	77;"	d	language:C	file:
+S_ISDIR	gzip.c	1676;"	d	language:C	file:
+S_ISDIR	printf.c	77;"	d	language:C	file:
+S_ISDIR	zcat.c	608;"	d	language:C	file:
+S_ISFIFO	coreutils/printf.c	83;"	d	language:C	file:
+S_ISFIFO	printf.c	83;"	d	language:C	file:
+S_ISLNK	coreutils/printf.c	86;"	d	language:C	file:
+S_ISLNK	printf.c	86;"	d	language:C	file:
+S_ISMPB	coreutils/printf.c	92;"	d	language:C	file:
+S_ISMPB	printf.c	92;"	d	language:C	file:
+S_ISMPC	coreutils/printf.c	93;"	d	language:C	file:
+S_ISMPC	printf.c	93;"	d	language:C	file:
+S_ISNWK	coreutils/printf.c	96;"	d	language:C	file:
+S_ISNWK	printf.c	96;"	d	language:C	file:
+S_ISREG	archival/gzip.c	1679;"	d	language:C	file:
+S_ISREG	coreutils/printf.c	80;"	d	language:C	file:
+S_ISREG	gzip.c	1679;"	d	language:C	file:
+S_ISREG	printf.c	80;"	d	language:C	file:
+S_ISREG	zcat.c	611;"	d	language:C	file:
+S_ISSOCK	coreutils/printf.c	89;"	d	language:C	file:
+S_ISSOCK	printf.c	89;"	d	language:C	file:
+S_IWUSR	archival/gzip.c	1703;"	d	language:C	file:
+S_IWUSR	gzip.c	1703;"	d	language:C	file:
+S_IWUSR	zcat.c	635;"	d	language:C	file:
+TAR_BLOCK_SIZE	archival/tar.c	36;"	d	language:C	file:
+TAR_BLOCK_SIZE	tar.c	36;"	d	language:C	file:
+TAR_MAGIC	archival/tar.c	65;"	d	language:C	file:
+TAR_MAGIC	tar.c	65;"	d	language:C	file:
+TAR_NAME_SIZE	archival/tar.c	37;"	d	language:C	file:
+TAR_NAME_SIZE	tar.c	37;"	d	language:C	file:
+TAR_TYPE_HARD_LINK	archival/tar.c	69;"	d	language:C	file:
+TAR_TYPE_HARD_LINK	tar.c	69;"	d	language:C	file:
+TAR_TYPE_REGULAR	archival/tar.c	68;"	d	language:C	file:
+TAR_TYPE_REGULAR	tar.c	68;"	d	language:C	file:
+TAR_TYPE_SOFT_LINK	archival/tar.c	70;"	d	language:C	file:
+TAR_TYPE_SOFT_LINK	tar.c	70;"	d	language:C	file:
+TAR_VERSION	archival/tar.c	66;"	d	language:C	file:
+TAR_VERSION	tar.c	66;"	d	language:C	file:
+TERMINAL_WIDTH	coreutils/ls.c	51;"	d	language:C	file:
+TERMINAL_WIDTH	ls.c	51;"	d	language:C	file:
+TEST_BUFFER_PAGES	mkswap.c	38;"	d	language:C	file:
+TEST_BUFFER_PAGES	util-linux/mkswap.c	38;"	d	language:C	file:
+TIME_ACCESS	coreutils/ls.c	118;"	d	language:C	file:
+TIME_ACCESS	ls.c	118;"	d	language:C	file:
+TIME_CHANGE	coreutils/ls.c	117;"	d	language:C	file:
+TIME_CHANGE	ls.c	117;"	d	language:C	file:
+TIME_MOD	coreutils/ls.c	116;"	d	language:C	file:
+TIME_MOD	ls.c	116;"	d	language:C	file:
+TIME_OPT	archival/gzip.c	1658;"	d	language:C	file:
+TIME_OPT	archival/gzip.c	1662;"	d	language:C	file:
+TIME_OPT	archival/gzip.c	1668;"	d	language:C	file:
+TIME_OPT	archival/gzip.c	1672;"	d	language:C	file:
+TIME_OPT	gzip.c	1658;"	d	language:C	file:
+TIME_OPT	gzip.c	1662;"	d	language:C	file:
+TIME_OPT	gzip.c	1668;"	d	language:C	file:
+TIME_OPT	gzip.c	1672;"	d	language:C	file:
+TOO_FAR	archival/gzip.c	1028;"	d	language:C	file:
+TOO_FAR	gzip.c	1028;"	d	language:C	file:
+TRUE	internal.h	40;"	d	language:C++
+TYPECHAR	coreutils/ls.c	79;"	d	language:C	file:
+TYPECHAR	ls.c	79;"	d	language:C	file:
+TYPEINDEX	coreutils/ls.c	78;"	d	language:C	file:
+TYPEINDEX	ls.c	78;"	d	language:C	file:
+TarHeader	archival/tar.c	/^} TarHeader;$/;"	t	language:C	typeref:struct:__anon9	file:
+TarHeader	tar.c	/^} TarHeader;$/;"	t	language:C	typeref:struct:__anon13	file:
+Trace	archival/gzip.c	258;"	d	language:C	file:
+Trace	archival/gzip.c	265;"	d	language:C	file:
+Trace	gzip.c	258;"	d	language:C	file:
+Trace	gzip.c	265;"	d	language:C	file:
+Trace	zcat.c	316;"	d	language:C	file:
+Trace	zcat.c	323;"	d	language:C	file:
+Tracec	archival/gzip.c	261;"	d	language:C	file:
+Tracec	archival/gzip.c	268;"	d	language:C	file:
+Tracec	gzip.c	261;"	d	language:C	file:
+Tracec	gzip.c	268;"	d	language:C	file:
+Tracec	zcat.c	319;"	d	language:C	file:
+Tracec	zcat.c	326;"	d	language:C	file:
+Tracecv	archival/gzip.c	262;"	d	language:C	file:
+Tracecv	archival/gzip.c	269;"	d	language:C	file:
+Tracecv	gzip.c	262;"	d	language:C	file:
+Tracecv	gzip.c	269;"	d	language:C	file:
+Tracecv	zcat.c	320;"	d	language:C	file:
+Tracecv	zcat.c	327;"	d	language:C	file:
+Tracev	archival/gzip.c	259;"	d	language:C	file:
+Tracev	archival/gzip.c	266;"	d	language:C	file:
+Tracev	gzip.c	259;"	d	language:C	file:
+Tracev	gzip.c	266;"	d	language:C	file:
+Tracev	zcat.c	317;"	d	language:C	file:
+Tracev	zcat.c	324;"	d	language:C	file:
+Tracevv	archival/gzip.c	260;"	d	language:C	file:
+Tracevv	archival/gzip.c	267;"	d	language:C	file:
+Tracevv	gzip.c	260;"	d	language:C	file:
+Tracevv	gzip.c	267;"	d	language:C	file:
+Tracevv	zcat.c	318;"	d	language:C	file:
+Tracevv	zcat.c	325;"	d	language:C	file:
+UNKNOWN	archival/gzip.c	186;"	d	language:C	file:
+UNKNOWN	gzip.c	186;"	d	language:C	file:
+UPDATE_HASH	archival/gzip.c	1161;"	d	language:C	file:
+UPDATE_HASH	gzip.c	1161;"	d	language:C	file:
+VERSION	Makefile	/^VERSION=0.29alpha1$/;"	m	language:Make
+VERSION	archival/gzip.c	374;"	d	language:C	file:
+VERSION	gzip.c	374;"	d	language:C	file:
+VERSION	zcat.c	430;"	d	language:C	file:
+WARN	archival/gzip.c	272;"	d	language:C	file:
+WARN	gzip.c	272;"	d	language:C	file:
+WARN	zcat.c	330;"	d	language:C	file:
+WARNING	archival/gzip.c	66;"	d	language:C	file:
+WARNING	gzip.c	66;"	d	language:C	file:
+WARNING	zcat.c	142;"	d	language:C	file:
+WMASK	archival/gzip.c	1017;"	d	language:C	file:
+WMASK	gzip.c	1017;"	d	language:C	file:
+WSIZE	archival/gzip.c	191;"	d	language:C	file:
+WSIZE	gzip.c	191;"	d	language:C	file:
+WSIZE	zcat.c	250;"	d	language:C	file:
+Z_SUFFIX	archival/gzip.c	436;"	d	language:C	file:
+Z_SUFFIX	archival/gzip.c	459;"	d	language:C	file:
+Z_SUFFIX	archival/gzip.c	509;"	d	language:C	file:
+Z_SUFFIX	archival/gzip.c	541;"	d	language:C	file:
+Z_SUFFIX	archival/gzip.c	593;"	d	language:C	file:
+Z_SUFFIX	archival/gzip.c	667;"	d	language:C	file:
+Z_SUFFIX	gzip.c	436;"	d	language:C	file:
+Z_SUFFIX	gzip.c	459;"	d	language:C	file:
+Z_SUFFIX	gzip.c	509;"	d	language:C	file:
+Z_SUFFIX	gzip.c	541;"	d	language:C	file:
+Z_SUFFIX	gzip.c	593;"	d	language:C	file:
+Z_SUFFIX	gzip.c	667;"	d	language:C	file:
+_GETOPT_H	zcat.c	461;"	d	language:C	file:
+_INTERNAL_H_	internal.h	25;"	d	language:C++
+__BUSYBOX_FUNCTIONS_H__	busybox_functions.h	2;"	d	language:C++
+__NR_klog	dmesg.c	19;"	d	language:C	file:
+__NR_klog	util-linux/dmesg.c	19;"	d	language:C	file:
+abort_gzip	zcat.c	/^RETSIGTYPE abort_gzip()$/;"	f	language:C
+actime	archival/gzip.c	/^         time_t actime;$/;"	m	language:C	struct:utimbuf	file:
+actime	gzip.c	/^         time_t actime;$/;"	m	language:C	struct:utimbuf	file:
+add	math.c	/^add()$/;"	f	language:C	file:
+and	math.c	/^and()$/;"	f	language:C	file:
+and	mount.c	/^	unsigned long	and;$/;"	m	language:C	struct:mount_options	file:
+and	util-linux/mount.c	/^	unsigned long	and;$/;"	m	language:C	struct:mount_options	file:
+andWithMode	internal.h	/^	mode_t			andWithMode;$/;"	m	language:C++	struct:FileInfo
+append_char	coreutils/ls.c	/^static char append_char(umode_t mode)$/;"	f	language:C	file:	signature:(umode_t mode)
+append_char	ls.c	/^static char append_char(umode_t mode)$/;"	f	language:C	file:	signature:(umode_t mode)
+applet	internal.h	/^					applet;$/;"	m	language:C++	struct:FileInfo	typeref:struct:FileInfo::Applet
+applets	applets/busybox.c	/^static const struct Applet applets[] = {$/;"	v	language:C	typeref:struct:Applet	file:
+applets	busybox.c	/^static const struct Applet applets[] = {$/;"	v	language:C	typeref:struct:Applet	file:
+args	archival/gzip.c	/^char **args = NULL;   \/* argv pointer if GZIP env variable defined *\/$/;"	v	language:C
+args	gzip.c	/^char **args = NULL;   \/* argv pointer if GZIP env variable defined *\/$/;"	v	language:C
+ascii	archival/gzip.c	/^int ascii = 0;        \/* convert end-of-lines to local OS conventions *\/$/;"	v	language:C
+ascii	gzip.c	/^int ascii = 0;        \/* convert end-of-lines to local OS conventions *\/$/;"	v	language:C
+b	zcat.c	/^  uch b;                \/* number of bits in this code or subcode *\/$/;"	m	language:C	struct:huft	file:
+badHeader	archival/tar.c	/^static	BOOL		badHeader;$/;"	v	language:C	file:
+badHeader	tar.c	/^static	BOOL		badHeader;$/;"	v	language:C	file:
+badpages	mkswap.c	/^static int badpages = 0;$/;"	v	language:C	file:
+badpages	util-linux/mkswap.c	/^static int badpages = 0;$/;"	v	language:C	file:
+base_dist	archival/gzip.c	/^local int near base_dist[D_CODES];$/;"	v	language:C
+base_dist	gzip.c	/^local int near base_dist[D_CODES];$/;"	v	language:C
+base_length	archival/gzip.c	/^local int near base_length[LENGTH_CODES];$/;"	v	language:C
+base_length	gzip.c	/^local int near base_length[LENGTH_CODES];$/;"	v	language:C
+bb	zcat.c	/^ulg bb;                         \/* bit buffer *\/$/;"	v	language:C
+been_there_done_that	applets/busybox.c	/^static int been_there_done_that = 0;$/;"	v	language:C	file:
+been_there_done_that	busybox.c	/^static int been_there_done_that = 0;$/;"	v	language:C	file:
+bi_buf	archival/gzip.c	/^local unsigned short bi_buf;$/;"	v	language:C
+bi_buf	gzip.c	/^local unsigned short bi_buf;$/;"	v	language:C
+bi_init	archival/gzip.c	/^void bi_init (zipfile)$/;"	f	language:C
+bi_init	gzip.c	/^void bi_init (zipfile)$/;"	f	language:C
+bi_reverse	archival/gzip.c	/^unsigned bi_reverse(code, len)$/;"	f	language:C
+bi_reverse	gzip.c	/^unsigned bi_reverse(code, len)$/;"	f	language:C
+bi_valid	archival/gzip.c	/^local int bi_valid;$/;"	v	language:C
+bi_valid	gzip.c	/^local int bi_valid;$/;"	v	language:C
+bi_windup	archival/gzip.c	/^void bi_windup()$/;"	f	language:C
+bi_windup	gzip.c	/^void bi_windup()$/;"	f	language:C
+bit_test_and_clear	mkswap.c	/^static int bit_test_and_clear (unsigned int *addr, unsigned int nr)$/;"	f	language:C	file:	signature:(unsigned int *addr, unsigned int nr)
+bit_test_and_clear	util-linux/mkswap.c	/^static int bit_test_and_clear (unsigned int *addr, unsigned int nr)$/;"	f	language:C	file:	signature:(unsigned int *addr, unsigned int nr)
+bit_test_and_set	mkswap.c	/^static long bit_test_and_set (unsigned int *addr, unsigned int nr)$/;"	f	language:C	file:	signature:(unsigned int *addr, unsigned int nr)
+bit_test_and_set	util-linux/mkswap.c	/^static long bit_test_and_set (unsigned int *addr, unsigned int nr)$/;"	f	language:C	file:	signature:(unsigned int *addr, unsigned int nr)
+bits_sent	archival/gzip.c	/^  ulg bits_sent;   \/* bit length of the compressed data *\/$/;"	v	language:C
+bits_sent	gzip.c	/^  ulg bits_sent;   \/* bit length of the compressed data *\/$/;"	v	language:C
+bk	zcat.c	/^unsigned bk;                    \/* bits in bit buffer *\/$/;"	v	language:C
+bl_count	archival/gzip.c	/^local ush near bl_count[MAX_BITS+1];$/;"	v	language:C
+bl_count	gzip.c	/^local ush near bl_count[MAX_BITS+1];$/;"	v	language:C
+bl_desc	archival/gzip.c	/^local tree_desc near bl_desc =$/;"	v	language:C
+bl_desc	gzip.c	/^local tree_desc near bl_desc =$/;"	v	language:C
+bl_order	archival/gzip.c	/^local uch near bl_order[BL_CODES]$/;"	v	language:C
+bl_order	gzip.c	/^local uch near bl_order[BL_CODES]$/;"	v	language:C
+bl_tree	archival/gzip.c	/^local ct_data near bl_tree[2*BL_CODES+1];$/;"	v	language:C
+bl_tree	gzip.c	/^local ct_data near bl_tree[2*BL_CODES+1];$/;"	v	language:C
+block_device	block_device.c	/^char * block_device(const char *name, struct FileInfo *i)$/;"	f	language:C	signature:(const char *name, struct FileInfo *i)
+block_device_main	block_device.c	/^block_device_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+block_device_usage	block_device.c	/^const char	block_device_usage[] = "block_device mount-point";$/;"	v	language:C
+block_start	archival/gzip.c	/^long block_start;$/;"	v	language:C
+block_start	gzip.c	/^long block_start;$/;"	v	language:C
+border	zcat.c	/^static unsigned border[] = {    \/* Order of the bit length code lengths *\/$/;"	v	language:C	file:
+buildName	utility.c	/^buildName(const char * dirName, const char * fileName)$/;"	f	language:C	signature:(const char * dirName, const char * fileName)
+build_bl_tree	archival/gzip.c	/^local int build_bl_tree()$/;"	f	language:C
+build_bl_tree	gzip.c	/^local int build_bl_tree()$/;"	f	language:C
+build_tree	archival/gzip.c	/^local void build_tree(desc)$/;"	f	language:C
+build_tree	gzip.c	/^local void build_tree(desc)$/;"	f	language:C
+busybox_main	applets/busybox.c	/^int busybox_main(int argc, char **argv)$/;"	f	language:C	signature:(int argc, char **argv)
+busybox_main	busybox.c	/^int busybox_main(int argc, char **argv)$/;"	f	language:C	signature:(int argc, char **argv)
+bytes_in	archival/gzip.c	/^long bytes_in;             \/* number of input bytes *\/$/;"	v	language:C
+bytes_in	gzip.c	/^long bytes_in;             \/* number of input bytes *\/$/;"	v	language:C
+bytes_in	zcat.c	/^long bytes_in;             \/* number of input bytes *\/$/;"	v	language:C
+bytes_out	archival/gzip.c	/^long bytes_out;            \/* number of output bytes *\/$/;"	v	language:C
+bytes_out	gzip.c	/^long bytes_out;            \/* number of output bytes *\/$/;"	v	language:C
+bytes_out	zcat.c	/^long bytes_out;            \/* number of output bytes *\/$/;"	v	language:C
+casemap	archival/gzip.c	441;"	d	language:C	file:
+casemap	archival/gzip.c	460;"	d	language:C	file:
+casemap	archival/gzip.c	510;"	d	language:C	file:
+casemap	archival/gzip.c	543;"	d	language:C	file:
+casemap	archival/gzip.c	595;"	d	language:C	file:
+casemap	archival/gzip.c	626;"	d	language:C	file:
+casemap	archival/gzip.c	659;"	d	language:C	file:
+casemap	gzip.c	441;"	d	language:C	file:
+casemap	gzip.c	460;"	d	language:C	file:
+casemap	gzip.c	510;"	d	language:C	file:
+casemap	gzip.c	543;"	d	language:C	file:
+casemap	gzip.c	595;"	d	language:C	file:
+casemap	gzip.c	626;"	d	language:C	file:
+casemap	gzip.c	659;"	d	language:C	file:
+cat_more_main	cat.c	/^extern int cat_more_main(int argc, char **argv)$/;"	f	language:C	signature:(int argc, char **argv)
+cat_more_main	coreutils/cat.c	/^extern int cat_more_main(int argc, char **argv)$/;"	f	language:C	signature:(int argc, char **argv)
+cat_usage	cat.c	/^const char cat_usage[] = "[file ...]";$/;"	v	language:C
+cat_usage	coreutils/cat.c	/^const char cat_usage[] = "[file ...]";$/;"	v	language:C
+cc	zcat.c	/^  uch cc;$/;"	v	language:C
+changeGroupID	internal.h	/^	unsigned int	changeGroupID:1;$/;"	m	language:C++	struct:FileInfo
+changeMode	internal.h	/^	unsigned int	changeMode:1;$/;"	m	language:C++	struct:FileInfo
+changeUserID	internal.h	/^	unsigned int	changeUserID:1;$/;"	m	language:C++	struct:FileInfo
+checkSum	archival/tar.c	/^	char	checkSum[8];$/;"	m	language:C	struct:__anon9	file:
+checkSum	tar.c	/^	char	checkSum[8];$/;"	m	language:C	struct:__anon13	file:
+check_blocks	mkswap.c	/^static void check_blocks(int * signature_page)$/;"	f	language:C	file:	signature:(int * signature_page)
+check_blocks	util-linux/mkswap.c	/^static void check_blocks(int * signature_page)$/;"	f	language:C	file:	signature:(int * signature_page)
+check_match	archival/gzip.c	/^local void check_match(start, match, length)$/;"	f	language:C
+check_match	archival/gzip.c	1390;"	d	language:C	file:
+check_match	gzip.c	/^local void check_match(start, match, length)$/;"	f	language:C
+check_match	gzip.c	1390;"	d	language:C	file:
+chgrp_usage	chown.c	/^static const char chgrp_usage[] = "[OPTION]... GROUP FILE...\\n"$/;"	v	language:C	file:
+chgrp_usage	coreutils/chown.c	/^static const char chgrp_usage[] = "[OPTION]... GROUP FILE...\\n"$/;"	v	language:C	file:
+chmod	archival/gzip.c	607;"	d	language:C	file:
+chmod	gzip.c	607;"	d	language:C	file:
+chmod_main	chmod.c	/^chmod_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+chmod_main	coreutils/chmod.c	/^chmod_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+chmod_usage	chmod.c	/^const char	chmod_usage[] = "chmod [-R] mode file [file ...]\\n"$/;"	v	language:C
+chmod_usage	coreutils/chmod.c	/^const char	chmod_usage[] = "chmod [-R] mode file [file ...]\\n"$/;"	v	language:C
+chownApp	chown.c	/^static int chownApp;$/;"	v	language:C	file:
+chownApp	coreutils/chown.c	/^static int chownApp;$/;"	v	language:C	file:
+chown_main	chown.c	/^int chown_main(int argc, char **argv)$/;"	f	language:C	signature:(int argc, char **argv)
+chown_main	coreutils/chown.c	/^int chown_main(int argc, char **argv)$/;"	f	language:C	signature:(int argc, char **argv)
+chown_usage	chown.c	/^static const char chown_usage[] = "[OPTION]...  OWNER[.[GROUP] FILE...\\n"$/;"	v	language:C	file:
+chown_usage	coreutils/chown.c	/^static const char chown_usage[] = "[OPTION]...  OWNER[.[GROUP] FILE...\\n"$/;"	v	language:C	file:
+chroot_main	chroot.c	/^int chroot_main(int argc, char **argv)$/;"	f	language:C	signature:(int argc, char **argv)
+chroot_main	coreutils/chroot.c	/^int chroot_main(int argc, char **argv)$/;"	f	language:C	signature:(int argc, char **argv)
+chroot_usage	chroot.c	/^static const char chroot_usage[] = "NEWROOT [COMMAND...]\\n"$/;"	v	language:C	file:
+chroot_usage	coreutils/chroot.c	/^static const char chroot_usage[] = "NEWROOT [COMMAND...]\\n"$/;"	v	language:C	file:
+chunk	internal.h	/^struct chunk {$/;"	s	language:C++
+chunkList	utility.c	/^static	CHUNK *	chunkList;$/;"	v	language:C	file:
+chunkstrdup	utility.c	/^chunkstrdup(const char * str)$/;"	f	language:C	signature:(const char * str)
+clear_bufs	zcat.c	/^void clear_bufs()$/;"	f	language:C
+clear_main	clear.c	/^clear_main(int argc, char** argv)$/;"	f	language:C	signature:(int argc, char** argv)
+clear_main	console-tools/clear.c	/^clear_main(int argc, char** argv)$/;"	f	language:C	signature:(int argc, char** argv)
+code	archival/gzip.c	/^        ush  code;       \/* bit string *\/$/;"	m	language:C	union:ct_data::__anon7	file:
+code	gzip.c	/^        ush  code;       \/* bit string *\/$/;"	m	language:C	union:ct_data::__anon3	file:
+column	coreutils/ls.c	/^static unsigned short	column = 0;$/;"	v	language:C	file:
+column	ls.c	/^static unsigned short	column = 0;$/;"	v	language:C	file:
+column_width	coreutils/ls.c	/^static unsigned short terminal_width = 0, column_width = 0;$/;"	v	language:C	file:
+column_width	coreutils/ls.c	138;"	d	language:C	file:
+column_width	ls.c	/^static unsigned short terminal_width = 0, column_width = 0;$/;"	v	language:C	file:
+column_width	ls.c	138;"	d	language:C	file:
+complainInPostProcess	internal.h	/^	unsigned int	complainInPostProcess:1;$/;"	m	language:C++	struct:FileInfo
+compressed_len	archival/gzip.c	/^local ulg compressed_len; \/* total bit length of compressed file *\/$/;"	v	language:C
+compressed_len	gzip.c	/^local ulg compressed_len; \/* total bit length of compressed file *\/$/;"	v	language:C
+config	archival/gzip.c	/^typedef struct config {$/;"	s	language:C	file:
+config	archival/gzip.c	/^} config;$/;"	t	language:C	typeref:struct:config	file:
+config	gzip.c	/^typedef struct config {$/;"	s	language:C	file:
+config	gzip.c	/^} config;$/;"	t	language:C	typeref:struct:config	file:
+configuration_table	archival/gzip.c	/^local config configuration_table = $/;"	v	language:C
+configuration_table	gzip.c	/^local config configuration_table = $/;"	v	language:C
+configure_terminals	init.c	/^configure_terminals( int serial_cons )$/;"	f	language:C	signature:( int serial_cons )
+configure_terminals	init/init.c	/^configure_terminals( int serial_cons )$/;"	f	language:C	signature:( int serial_cons )
+console	init.c	/^char			console[16] = "";$/;"	v	language:C
+console	init/init.c	/^char			console[16] = "";$/;"	v	language:C
+const	zcat.c	1160;"	d	language:C	file:
+copyFile	utility.c	/^copyFile($/;"	f	language:C	signature:( const char * srcName, const char * destName, BOOL setModes )
+copy_block	archival/gzip.c	/^void copy_block(buf, len, header)$/;"	f	language:C
+copy_block	gzip.c	/^void copy_block(buf, len, header)$/;"	f	language:C
+count_blocks	mkswap.c	/^static int count_blocks (int fd)$/;"	f	language:C	file:	signature:(int fd)
+count_blocks	util-linux/mkswap.c	/^static int count_blocks (int fd)$/;"	f	language:C	file:	signature:(int fd)
+cp_fn	coreutils/cp.c	/^cp_fn(const struct FileInfo * i)$/;"	f	language:C	signature:(const struct FileInfo * i)
+cp_fn	cp.c	/^cp_fn(const struct FileInfo * i)$/;"	f	language:C	signature:(const struct FileInfo * i)
+cp_usage	coreutils/cp.c	/^const char  cp_usage[] = "cp [-r] source-file destination-file\\n"$/;"	v	language:C
+cp_usage	cp.c	/^const char  cp_usage[] = "cp [-r] source-file destination-file\\n"$/;"	v	language:C
+cpdext	zcat.c	/^static ush cpdext[] = {         \/* Extra bits for distance codes *\/$/;"	v	language:C	file:
+cpdist	zcat.c	/^static ush cpdist[] = {         \/* Copy offsets for distance codes 0..29 *\/$/;"	v	language:C	file:
+cplens	zcat.c	/^static ush cplens[] = {         \/* Copy lengths for literal codes 257..285 *\/$/;"	v	language:C	file:
+cplext	zcat.c	/^static ush cplext[] = {         \/* Extra bits for literal codes 257..285 *\/$/;"	v	language:C	file:
+crc_32_tab	zcat.c	/^ulg crc_32_tab[] = {$/;"	v	language:C
+create	internal.h	/^	unsigned int	create:1;$/;"	m	language:C++	struct:FileInfo
+createFlag	archival/tar.c	/^static	BOOL		createFlag;$/;"	v	language:C	file:
+createFlag	tar.c	/^static	BOOL		createFlag;$/;"	v	language:C	file:
+createPath	archival/tar.c	/^createPath(const char * name, int mode)$/;"	f	language:C	file:	signature:(const char * name, int mode)
+createPath	tar.c	/^createPath(const char * name, int mode)$/;"	f	language:C	file:	signature:(const char * name, int mode)
+ct_data	archival/gzip.c	/^typedef struct ct_data {$/;"	s	language:C	file:
+ct_data	archival/gzip.c	/^} ct_data;$/;"	t	language:C	typeref:struct:ct_data	file:
+ct_data	gzip.c	/^typedef struct ct_data {$/;"	s	language:C	file:
+ct_data	gzip.c	/^} ct_data;$/;"	t	language:C	typeref:struct:ct_data	file:
+ct_init	archival/gzip.c	/^void ct_init(attr, methodp)$/;"	f	language:C
+ct_init	gzip.c	/^void ct_init(attr, methodp)$/;"	f	language:C
+d_code	archival/gzip.c	2183;"	d	language:C	file:
+d_code	gzip.c	2183;"	d	language:C	file:
+d_desc	archival/gzip.c	/^local tree_desc near d_desc =$/;"	v	language:C
+d_desc	gzip.c	/^local tree_desc near d_desc =$/;"	v	language:C
+dad	archival/gzip.c	/^        ush  dad;        \/* father node in Huffman tree *\/$/;"	m	language:C	union:ct_data::__anon8	file:
+dad	gzip.c	/^        ush  dad;        \/* father node in Huffman tree *\/$/;"	m	language:C	union:ct_data::__anon4	file:
+data	internal.h	/^    char data[CHUNK_INIT_SIZE];	\/* actually of varying length *\/$/;"	m	language:C++	struct:chunk
+dataCc	archival/tar.c	/^static	long		dataCc;$/;"	v	language:C	file:
+dataCc	tar.c	/^static	long		dataCc;$/;"	v	language:C	file:
+date_conv_ftime	coreutils/date.c	/^date_conv_ftime(struct tm *tm_time, const char *t_string) {$/;"	f	language:C	signature:(struct tm *tm_time, const char *t_string)
+date_conv_ftime	date.c	/^date_conv_ftime(struct tm *tm_time, const char *t_string) {$/;"	f	language:C	signature:(struct tm *tm_time, const char *t_string)
+date_conv_time	coreutils/date.c	/^date_conv_time(struct tm *tm_time, const char *t_string) {$/;"	f	language:C	signature:(struct tm *tm_time, const char *t_string)
+date_conv_time	date.c	/^date_conv_time(struct tm *tm_time, const char *t_string) {$/;"	f	language:C	signature:(struct tm *tm_time, const char *t_string)
+date_err	coreutils/date.c	/^date_err(void) {$/;"	f	language:C	signature:(void)
+date_err	date.c	/^date_err(void) {$/;"	f	language:C	signature:(void)
+date_main	coreutils/date.c	/^date_main(int argc, char * * argv)$/;"	f	language:C	signature:(int argc, char * * argv)
+date_main	date.c	/^date_main(int argc, char * * argv)$/;"	f	language:C	signature:(int argc, char * * argv)
+date_usage	coreutils/date.c	/^const char	date_usage[] = "date [-uR] [+FORMAT|+%f] [ [-s|-d] MMDDhhmm[[CC]YY]\\n"$/;"	v	language:C
+date_usage	date.c	/^const char	date_usage[] = "date [-uR] [+FORMAT|+%f] [ [-s|-d] MMDDhhmm[[CC]YY]\\n"$/;"	v	language:C
+dbits	zcat.c	/^int dbits = 6;          \/* bits in base distance lookup table *\/$/;"	v	language:C
+dd_main	coreutils/dd.c	/^dd_main (struct FileInfo *unused, int argc, char **argv)$/;"	f	language:C	signature:(struct FileInfo *unused, int argc, char **argv)
+dd_main	dd.c	/^dd_main (struct FileInfo *unused, int argc, char **argv)$/;"	f	language:C	signature:(struct FileInfo *unused, int argc, char **argv)
+dd_usage	coreutils/dd.c	/^const char dd_usage[] = $/;"	v	language:C
+dd_usage	dd.c	/^const char dd_usage[] = $/;"	v	language:C
+decompress	archival/gzip.c	/^int decompress = 0;   \/* decompress (-d) *\/$/;"	v	language:C
+decompress	gzip.c	/^int decompress = 0;   \/* decompress (-d) *\/$/;"	v	language:C
+default_console	init.c	/^const char *	default_console = "\/dev\/tty1";$/;"	v	language:C
+default_console	init/init.c	/^const char *	default_console = "\/dev\/tty1";$/;"	v	language:C
+deflate	archival/gzip.c	/^ulg deflate()$/;"	f	language:C
+deflate	gzip.c	/^ulg deflate()$/;"	f	language:C
+del_loop	losetup.c	/^int del_loop(const char *device)$/;"	f	language:C	signature:(const char *device)
+depth	archival/gzip.c	/^local uch near depth[2*L_CODES+1];$/;"	v	language:C
+depth	gzip.c	/^local uch near depth[2*L_CODES+1];$/;"	v	language:C
+descend	descend.c	/^descend($/;"	f	language:C	signature:( struct FileInfo *oldInfo ,int (*function)(const struct FileInfo * i))
+destination	internal.h	/^	const char*	destination;$/;"	m	language:C++	struct:FileInfo
+devMajor	archival/tar.c	/^	char	devMajor[8];$/;"	m	language:C	struct:__anon9	file:
+devMajor	tar.c	/^	char	devMajor[8];$/;"	m	language:C	struct:__anon13	file:
+devMinor	archival/tar.c	/^	char	devMinor[8];$/;"	m	language:C	struct:__anon9	file:
+devMinor	tar.c	/^	char	devMinor[8];$/;"	m	language:C	struct:__anon13	file:
+device_name	mkswap.c	/^static const char * device_name = NULL;$/;"	v	language:C	file:
+device_name	util-linux/mkswap.c	/^static const char * device_name = NULL;$/;"	v	language:C	file:
+df	coreutils/df.c	/^df(const char * device, const char * mountPoint)$/;"	f	language:C	file:	signature:(const char * device, const char * mountPoint)
+df	df.c	/^df(const char * device, const char * mountPoint)$/;"	f	language:C	file:	signature:(const char * device, const char * mountPoint)
+df_main	coreutils/df.c	/^df_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+df_main	df.c	/^df_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+df_usage	coreutils/df.c	/^const char	df_usage[] = "df [filesystem ...]\\n"$/;"	v	language:C
+df_usage	df.c	/^const char	df_usage[] = "df [filesystem ...]\\n"$/;"	v	language:C
+didOperation	internal.h	/^	unsigned int	didOperation:1;$/;"	m	language:C++	struct:FileInfo
+die	mkswap.c	89;"	d	language:C	file:
+die	util-linux/mkswap.c	89;"	d	language:C	file:
+dir_type	archival/gzip.c	/^         typedef struct direct dir_type;$/;"	t	language:C	typeref:struct:direct	file:
+dir_type	archival/gzip.c	/^       typedef struct direct dir_type;$/;"	t	language:C	typeref:struct:direct	file:
+dir_type	archival/gzip.c	/^     typedef struct direct dir_type;$/;"	t	language:C	typeref:struct:direct	file:
+dir_type	archival/gzip.c	/^   typedef struct dirent dir_type;$/;"	t	language:C	typeref:struct:dirent	file:
+dir_type	gzip.c	/^         typedef struct direct dir_type;$/;"	t	language:C	typeref:struct:direct	file:
+dir_type	gzip.c	/^       typedef struct direct dir_type;$/;"	t	language:C	typeref:struct:direct	file:
+dir_type	gzip.c	/^     typedef struct direct dir_type;$/;"	t	language:C	typeref:struct:direct	file:
+dir_type	gzip.c	/^   typedef struct dirent dir_type;$/;"	t	language:C	typeref:struct:dirent	file:
+dir_type	zcat.c	/^         typedef struct direct dir_type;$/;"	t	language:C	typeref:struct:direct	file:
+dir_type	zcat.c	/^       typedef struct direct dir_type;$/;"	t	language:C	typeref:struct:direct	file:
+dir_type	zcat.c	/^     typedef struct direct dir_type;$/;"	t	language:C	typeref:struct:direct	file:
+dir_type	zcat.c	/^   typedef struct dirent dir_type;$/;"	t	language:C	typeref:struct:dirent	file:
+direct	archival/gzip.c	572;"	d	language:C	file:
+direct	gzip.c	572;"	d	language:C	file:
+directoryLength	internal.h	/^	int				directoryLength;$/;"	m	language:C++	struct:FileInfo
+display_fmt	coreutils/ls.c	/^static unsigned char	display_fmt = FMT_AUTO;$/;"	v	language:C	file:
+display_fmt	ls.c	/^static unsigned char	display_fmt = FMT_AUTO;$/;"	v	language:C	file:
+dist_code	archival/gzip.c	/^local uch dist_code[512];$/;"	v	language:C
+dist_code	gzip.c	/^local uch dist_code[512];$/;"	v	language:C
+divide	math.c	/^divide()$/;"	f	language:C	file:
+dl	archival/gzip.c	/^    } dl;$/;"	m	language:C	struct:ct_data	typeref:union:ct_data::__anon8	file:
+dl	gzip.c	/^    } dl;$/;"	m	language:C	struct:ct_data	typeref:union:ct_data::__anon4	file:
+dmesg_main	dmesg.c	/^dmesg_main(struct FileInfo * info, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * info, int argc, char * * argv)
+dmesg_main	util-linux/dmesg.c	/^dmesg_main(struct FileInfo * info, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * info, int argc, char * * argv)
+dmesg_usage	dmesg.c	/^const char			dmesg_usage[] = "dmesg";$/;"	v	language:C
+dmesg_usage	util-linux/dmesg.c	/^const char			dmesg_usage[] = "dmesg";$/;"	v	language:C
+do_check	mkswap.c	/^static int do_check = 0;$/;"	v	language:C	file:
+do_check	util-linux/mkswap.c	/^static int do_check = 0;$/;"	v	language:C	file:
+do_exit	archival/gzip.c	/^local void do_exit(int exitcode)$/;"	f	language:C	signature:(int exitcode)
+do_exit	gzip.c	/^local void do_exit(int exitcode)$/;"	f	language:C	signature:(int exitcode)
+do_exit	zcat.c	/^local void do_exit(exitcode)$/;"	f	language:C
+do_umount	umount.c	/^do_umount(const char * name, int noMtab)$/;"	f	language:C	signature:(const char * name, int noMtab)
+do_umount	util-linux/umount.c	/^do_umount(const char * name, int noMtab)$/;"	f	language:C	signature:(const char * name, int noMtab)
+dutmp_fn	dutmp.c	/^dutmp_fn(const struct FileInfo * i)$/;"	f	language:C	signature:(const struct FileInfo * i)
+dutmp_fn	miscutils/dutmp.c	/^dutmp_fn(const struct FileInfo * i)$/;"	f	language:C	signature:(const struct FileInfo * i)
+dutmp_usage	dutmp.c	/^const char      dutmp_usage[] = "dutmp\\n"$/;"	v	language:C
+dutmp_usage	miscutils/dutmp.c	/^const char      dutmp_usage[] = "dutmp\\n"$/;"	v	language:C
+dyadic	internal.h	/^	unsigned int	dyadic:1;$/;"	m	language:C++	struct:FileInfo
+dyadic_main	dyadic.c	/^dyadic_main($/;"	f	language:C	signature:( struct FileInfo * i ,int argc ,char * * argv)
+dyn_dtree	archival/gzip.c	/^local ct_data near dyn_dtree[2*D_CODES+1]; \/* distance tree *\/$/;"	v	language:C
+dyn_dtree	gzip.c	/^local ct_data near dyn_dtree[2*D_CODES+1]; \/* distance tree *\/$/;"	v	language:C
+dyn_ltree	archival/gzip.c	/^local ct_data near dyn_ltree[HEAP_SIZE];   \/* literal and length tree *\/$/;"	v	language:C
+dyn_ltree	gzip.c	/^local ct_data near dyn_ltree[HEAP_SIZE];   \/* literal and length tree *\/$/;"	v	language:C
+dyn_tree	archival/gzip.c	/^    ct_data near *dyn_tree;      \/* the dynamic tree *\/$/;"	m	language:C	struct:tree_desc	file:
+dyn_tree	gzip.c	/^    ct_data near *dyn_tree;      \/* the dynamic tree *\/$/;"	m	language:C	struct:tree_desc	file:
+e	zcat.c	/^  uch e;                \/* number of extra bits or operation *\/$/;"	m	language:C	struct:huft	file:
+elems	archival/gzip.c	/^    int     elems;               \/* max number of elements in the tree *\/$/;"	m	language:C	struct:tree_desc	file:
+elems	gzip.c	/^    int     elems;               \/* max number of elements in the tree *\/$/;"	m	language:C	struct:tree_desc	file:
+env	archival/gzip.c	/^char *env;            \/* contents of GZIP env variable *\/$/;"	v	language:C
+env	gzip.c	/^char *env;            \/* contents of GZIP env variable *\/$/;"	v	language:C
+eofFlag	archival/tar.c	/^static	BOOL		eofFlag;$/;"	v	language:C	file:
+eofFlag	tar.c	/^static	BOOL		eofFlag;$/;"	v	language:C	file:
+eofile	archival/gzip.c	/^local int           eofile;        \/* flag set at end of input file *\/$/;"	v	language:C
+eofile	gzip.c	/^local int           eofile;        \/* flag set at end of input file *\/$/;"	v	language:C
+eor	math.c	/^eor()$/;"	f	language:C	file:
+erase_mtab	umount.c	/^erase_mtab(const char * name)$/;"	f	language:C	signature:(const char * name)
+erase_mtab	util-linux/umount.c	/^erase_mtab(const char * name)$/;"	f	language:C	signature:(const char * name)
+error	zcat.c	/^void error(m)$/;"	f	language:C
+errorFlag	archival/tar.c	/^static	BOOL		errorFlag;$/;"	v	language:C	file:
+errorFlag	tar.c	/^static	BOOL		errorFlag;$/;"	v	language:C	file:
+exit_code	archival/gzip.c	/^static int exit_code = OK;   \/* program exit code *\/$/;"	v	language:C	file:
+exit_code	gzip.c	/^static int exit_code = OK;   \/* program exit code *\/$/;"	v	language:C	file:
+exit_code	zcat.c	/^int exit_code = OK;   \/* program exit code *\/$/;"	v	language:C
+exit_signal	init.c	/^exit_signal(int sig)$/;"	f	language:C	file:	signature:(int sig)
+exit_signal	init/init.c	/^exit_signal(int sig)$/;"	f	language:C	file:	signature:(int sig)
+exit_status	coreutils/printf.c	/^static int exit_status;$/;"	v	language:C	file:
+exit_status	printf.c	/^static int exit_status;$/;"	v	language:C	file:
+ext_header	zcat.c	/^int ext_header = 0; \/* set if extended local header *\/$/;"	v	language:C
+extra_base	archival/gzip.c	/^    int     extra_base;          \/* base index for extra_bits *\/$/;"	m	language:C	struct:tree_desc	file:
+extra_base	gzip.c	/^    int     extra_base;          \/* base index for extra_bits *\/$/;"	m	language:C	struct:tree_desc	file:
+extra_bits	archival/gzip.c	/^    int     near *extra_bits;    \/* extra bits for each code or NULL *\/$/;"	m	language:C	struct:tree_desc	file:
+extra_bits	gzip.c	/^    int     near *extra_bits;    \/* extra bits for each code or NULL *\/$/;"	m	language:C	struct:tree_desc	file:
+extra_blbits	archival/gzip.c	/^local int near extra_blbits[BL_CODES]\/* extra bits for each bit length code *\/$/;"	v	language:C
+extra_blbits	gzip.c	/^local int near extra_blbits[BL_CODES]\/* extra bits for each bit length code *\/$/;"	v	language:C
+extra_dbits	archival/gzip.c	/^local int near extra_dbits[D_CODES] \/* extra bits for each distance code *\/$/;"	v	language:C
+extra_dbits	gzip.c	/^local int near extra_dbits[D_CODES] \/* extra bits for each distance code *\/$/;"	v	language:C
+extra_lbits	archival/gzip.c	/^local int near extra_lbits[LENGTH_CODES] \/* extra bits for each length code *\/$/;"	v	language:C
+extra_lbits	gzip.c	/^local int near extra_lbits[LENGTH_CODES] \/* extra bits for each length code *\/$/;"	v	language:C
+extractFlag	archival/tar.c	/^static	BOOL		extractFlag;$/;"	v	language:C	file:
+extractFlag	tar.c	/^static	BOOL		extractFlag;$/;"	v	language:C	file:
+fatal_error	mkswap.c	/^volatile void fatal_error(const char * fmt_string)$/;"	f	language:C	signature:(const char * fmt_string)
+fatal_error	util-linux/mkswap.c	/^volatile void fatal_error(const char * fmt_string)$/;"	f	language:C	signature:(const char * fmt_string)
+fc	archival/gzip.c	/^    } fc;$/;"	m	language:C	struct:ct_data	typeref:union:ct_data::__anon7	file:
+fc	gzip.c	/^    } fc;$/;"	m	language:C	struct:ct_data	typeref:union:ct_data::__anon3	file:
+fcalloc	archival/gzip.c	524;"	d	language:C	file:
+fcalloc	archival/gzip.c	529;"	d	language:C	file:
+fcalloc	archival/gzip.c	531;"	d	language:C	file:
+fcalloc	gzip.c	524;"	d	language:C	file:
+fcalloc	gzip.c	529;"	d	language:C	file:
+fcalloc	gzip.c	531;"	d	language:C	file:
+fcfree	archival/gzip.c	525;"	d	language:C	file:
+fcfree	archival/gzip.c	533;"	d	language:C	file:
+fcfree	gzip.c	525;"	d	language:C	file:
+fcfree	gzip.c	533;"	d	language:C	file:
+fdflush	fdflush.c	/^fdflush(const char *filename) $/;"	f	language:C	signature:(const char *filename)
+fdflush	util-linux/fdflush.c	/^fdflush(const char *filename) $/;"	f	language:C	signature:(const char *filename)
+fdflush_fn	fdflush.c	/^fdflush_fn(const struct FileInfo * i)$/;"	f	language:C	signature:(const struct FileInfo * i)
+fdflush_fn	util-linux/fdflush.c	/^fdflush_fn(const struct FileInfo * i)$/;"	f	language:C	signature:(const struct FileInfo * i)
+fdflush_usage	fdflush.c	/^const char			fdflush_usage[] = "fdflush device";$/;"	v	language:C
+fdflush_usage	util-linux/fdflush.c	/^const char			fdflush_usage[] = "fdflush device";$/;"	v	language:C
+fileAction	chown.c	/^static int fileAction(const char *fileName)$/;"	f	language:C	file:	signature:(const char *fileName)
+fileAction	coreutils/chown.c	/^static int fileAction(const char *fileName)$/;"	f	language:C	file:	signature:(const char *fileName)
+file_method	archival/gzip.c	/^int *file_method;      \/* pointer to DEFLATE or STORE *\/$/;"	v	language:C
+file_method	gzip.c	/^int *file_method;      \/* pointer to DEFLATE or STORE *\/$/;"	v	language:C
+file_t	archival/gzip.c	/^typedef int file_t;     \/* Do not use stdio *\/$/;"	t	language:C	file:
+file_t	gzip.c	/^typedef int file_t;     \/* Do not use stdio *\/$/;"	t	language:C	file:
+file_t	zcat.c	/^typedef int file_t;     \/* Do not use stdio *\/$/;"	t	language:C	file:
+file_type	archival/gzip.c	/^ush *file_type;        \/* pointer to UNKNOWN, BINARY or ASCII *\/$/;"	v	language:C
+file_type	gzip.c	/^ush *file_type;        \/* pointer to UNKNOWN, BINARY or ASCII *\/$/;"	v	language:C
+fill_inbuf	zcat.c	/^int fill_inbuf(eof_ok)$/;"	f	language:C
+fill_window	archival/gzip.c	/^local void fill_window()$/;"	f	language:C
+fill_window	gzip.c	/^local void fill_window()$/;"	f	language:C
+findMountPoint	findmount.c	/^findMountPoint(const char * name, const char * table)$/;"	f	language:C	signature:(const char * name, const char * table)
+find_fn	find.c	/^find_fn(const struct FileInfo * i)$/;"	f	language:C	signature:(const struct FileInfo * i)
+find_fn	findutils/find.c	/^find_fn(const struct FileInfo * i)$/;"	f	language:C	signature:(const struct FileInfo * i)
+find_main	find.c	/^find_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+find_main	findutils/find.c	/^find_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+find_usage	find.c	/^const char	find_usage[] = "find dir [pattern]\\n"$/;"	v	language:C
+find_usage	findutils/find.c	/^const char	find_usage[] = "find dir [pattern]\\n"$/;"	v	language:C
+first_terminal	init.c	/^char *			first_terminal = NULL;$/;"	v	language:C
+first_terminal	init/init.c	/^char *			first_terminal = NULL;$/;"	v	language:C
+flag	zcat.c	/^  int *flag;$/;"	m	language:C	struct:option	file:
+flag_bit	archival/gzip.c	/^local uch flag_bit;         \/* current bit used in flags *\/$/;"	v	language:C
+flag_bit	gzip.c	/^local uch flag_bit;         \/* current bit used in flags *\/$/;"	v	language:C
+flag_buf	archival/gzip.c	/^local uch near flag_buf[(LIT_BUFSIZE\/8)];$/;"	v	language:C
+flag_buf	gzip.c	/^local uch near flag_buf[(LIT_BUFSIZE\/8)];$/;"	v	language:C
+flags	archival/gzip.c	/^local uch flags;            \/* current flags not yet saved in flag_buf *\/$/;"	v	language:C
+flags	gzip.c	/^local uch flags;            \/* current flags not yet saved in flag_buf *\/$/;"	v	language:C
+flush_block	archival/gzip.c	/^ulg flush_block(buf, stored_len, eof)$/;"	f	language:C
+flush_block	gzip.c	/^ulg flush_block(buf, stored_len, eof)$/;"	f	language:C
+flush_outbuf	zcat.c	/^void flush_outbuf()$/;"	f	language:C
+flush_output	zcat.c	1462;"	d	language:C	file:
+flush_window	zcat.c	/^void flush_window()$/;"	f	language:C
+force	internal.h	/^	unsigned int	force:1;$/;"	m	language:C++	struct:FileInfo
+force	zcat.c	/^int force = 0;        \/* don't ask questions, compress links (-f) *\/$/;"	v	language:C
+foreground	archival/gzip.c	/^int foreground;       \/* set if program run in foreground *\/$/;"	v	language:C
+foreground	gzip.c	/^int foreground;       \/* set if program run in foreground *\/$/;"	v	language:C
+foreground	zcat.c	/^int foreground;       \/* set if program run in foreground *\/$/;"	v	language:C
+freeChunks	utility.c	/^freeChunks(void)$/;"	f	language:C	signature:(void)
+freq	archival/gzip.c	/^        ush  freq;       \/* frequency count *\/$/;"	m	language:C	union:ct_data::__anon7	file:
+freq	gzip.c	/^        ush  freq;       \/* frequency count *\/$/;"	m	language:C	union:ct_data::__anon3	file:
+fullRead	archival/tar.c	/^fullRead(int fd, char * buf, int len)$/;"	f	language:C	signature:(int fd, char * buf, int len)
+fullRead	tar.c	/^fullRead(int fd, char * buf, int len)$/;"	f	language:C	signature:(int fd, char * buf, int len)
+fullRead	utility.c	/^fullRead(int fd, char * buf, int len)$/;"	f	language:C	signature:(int fd, char * buf, int len)
+fullWrite	archival/tar.c	/^fullWrite(int fd, const char * buf, int len)$/;"	f	language:C	signature:(int fd, const char * buf, int len)
+fullWrite	tar.c	/^fullWrite(int fd, const char * buf, int len)$/;"	f	language:C	signature:(int fd, const char * buf, int len)
+fullWrite	utility.c	/^fullWrite(int fd, const char * buf, int len)$/;"	f	language:C	signature:(int fd, const char * buf, int len)
+function	math.c	/^	void			(*function)();$/;"	m	language:C	struct:op	file:
+gen_bitlen	archival/gzip.c	/^local void gen_bitlen(desc)$/;"	f	language:C
+gen_bitlen	gzip.c	/^local void gen_bitlen(desc)$/;"	f	language:C
+gen_codes	archival/gzip.c	/^local void gen_codes (tree, max_code)$/;"	f	language:C
+gen_codes	gzip.c	/^local void gen_codes (tree, max_code)$/;"	f	language:C
+getChunk	utility.c	/^getChunk(int size)$/;"	f	language:C	signature:(int size)
+getNum	coreutils/dd.c	/^getNum(const char * cp)$/;"	f	language:C	file:	signature:(const char * cp)
+getNum	dd.c	/^getNum(const char * cp)$/;"	f	language:C	file:	signature:(const char * cp)
+getOctal	archival/tar.c	/^getOctal(const char * cp, int len)$/;"	f	language:C	file:	signature:(const char * cp, int len)
+getOctal	tar.c	/^getOctal(const char * cp, int len)$/;"	f	language:C	file:	signature:(const char * cp, int len)
+get_byte	archival/gzip.c	216;"	d	language:C	file:
+get_byte	gzip.c	216;"	d	language:C	file:
+get_byte	zcat.c	274;"	d	language:C	file:
+get_char	archival/gzip.c	628;"	d	language:C	file:
+get_char	archival/gzip.c	706;"	d	language:C	file:
+get_char	gzip.c	628;"	d	language:C	file:
+get_char	gzip.c	706;"	d	language:C	file:
+get_char	zcat.c	87;"	d	language:C	file:
+get_method	zcat.c	/^local int get_method(in)$/;"	f	language:C
+get_size	mkswap.c	/^static int get_size(const char  *file)$/;"	f	language:C	file:	signature:(const char *file)
+get_size	util-linux/mkswap.c	/^static int get_size(const char  *file)$/;"	f	language:C	file:	signature:(const char *file)
+gid	archival/tar.c	/^	char	gid[8];$/;"	m	language:C	struct:__anon9	file:
+gid	chown.c	/^static int gid=0;$/;"	v	language:C	file:
+gid	coreutils/chown.c	/^static int gid=0;$/;"	v	language:C	file:
+gid	tar.c	/^	char	gid[8];$/;"	m	language:C	struct:__anon13	file:
+gname	archival/tar.c	/^	char	gname[32];$/;"	m	language:C	struct:__anon9	file:
+gname	tar.c	/^	char	gname[32];$/;"	m	language:C	struct:__anon13	file:
+good_length	archival/gzip.c	/^   ush good_length; \/* reduce lazy search above this match length *\/$/;"	m	language:C	struct:config	file:
+good_length	gzip.c	/^   ush good_length; \/* reduce lazy search above this match length *\/$/;"	m	language:C	struct:config	file:
+good_match	archival/gzip.c	/^unsigned near good_match;$/;"	v	language:C
+good_match	gzip.c	/^unsigned near good_match;$/;"	v	language:C
+grep_main	findutils/grep.c	/^grep_main(struct FileInfo * unused, int argc, char ** argv)$/;"	f	language:C	signature:(struct FileInfo * unused, int argc, char ** argv)
+grep_main	grep.c	/^grep_main(struct FileInfo * unused, int argc, char ** argv)$/;"	f	language:C	signature:(struct FileInfo * unused, int argc, char ** argv)
+grep_usage	findutils/grep.c	/^const char grep_usage[] =$/;"	v	language:C
+grep_usage	grep.c	/^const char grep_usage[] =$/;"	v	language:C
+groupID	internal.h	/^	gid_t			groupID;$/;"	m	language:C++	struct:FileInfo
+gzip_main	archival/gzip.c	/^int gzip_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+gzip_main	gzip.c	/^int gzip_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+gzip_usage	archival/gzip.c	/^const char gzip_usage[] = "gzip\\nignores all command line arguments\\ncompress stdin to stdout with -9 compression\\n";$/;"	v	language:C
+gzip_usage	gzip.c	/^const char gzip_usage[] = "gzip\\nignores all command line arguments\\ncompress stdin to stdout with -9 compression\\n";$/;"	v	language:C
+halt_main	halt.c	/^halt_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+halt_main	init/halt.c	/^halt_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+halt_signal	init.c	/^halt_signal(int sig)$/;"	f	language:C	file:	signature:(int sig)
+halt_signal	init/init.c	/^halt_signal(int sig)$/;"	f	language:C	file:	signature:(int sig)
+halt_usage	halt.c	/^const char	halt_usage[] = "halt\\n"$/;"	v	language:C
+halt_usage	init/halt.c	/^const char	halt_usage[] = "halt\\n"$/;"	v	language:C
+has_arg	zcat.c	/^  int has_arg;$/;"	m	language:C	struct:option	file:
+head	archival/gzip.c	137;"	d	language:C	file:
+head	archival/gzip.c	141;"	d	language:C	file:
+head	gzip.c	137;"	d	language:C	file:
+head	gzip.c	141;"	d	language:C	file:
+head	zcat.c	212;"	d	language:C	file:
+head	zcat.c	216;"	d	language:C	file:
+header_bytes	zcat.c	/^long header_bytes;   \/* number of bytes in gzip header *\/$/;"	v	language:C
+heap	archival/gzip.c	/^local int near heap[2*L_CODES+1]; \/* heap used to build the Huffman trees *\/$/;"	v	language:C
+heap	gzip.c	/^local int near heap[2*L_CODES+1]; \/* heap used to build the Huffman trees *\/$/;"	v	language:C
+heap_len	archival/gzip.c	/^local int heap_len;               \/* number of elements in the heap *\/$/;"	v	language:C
+heap_len	gzip.c	/^local int heap_len;               \/* number of elements in the heap *\/$/;"	v	language:C
+heap_max	archival/gzip.c	/^local int heap_max;               \/* element of largest frequency *\/$/;"	v	language:C
+heap_max	gzip.c	/^local int heap_max;               \/* element of largest frequency *\/$/;"	v	language:C
+hextobin	coreutils/printf.c	125;"	d	language:C	file:
+hextobin	printf.c	125;"	d	language:C	file:
+huft	zcat.c	/^struct huft {$/;"	s	language:C	file:
+huft_build	zcat.c	/^int huft_build(b, n, s, d, e, t, m)$/;"	f	language:C
+huft_free	zcat.c	/^int huft_free(t)$/;"	f	language:C
+hufts	zcat.c	/^unsigned hufts;         \/* track memory usage *\/$/;"	v	language:C
+ifd	archival/gzip.c	/^int  ifd;                  \/* input file descriptor *\/$/;"	v	language:C
+ifd	gzip.c	/^int  ifd;                  \/* input file descriptor *\/$/;"	v	language:C
+ifd	zcat.c	/^int  ifd;                  \/* input file descriptor *\/$/;"	v	language:C
+ifile_size	archival/gzip.c	/^long ifile_size;      \/* input file size, -1 for devices (debug only) *\/$/;"	v	language:C
+ifile_size	gzip.c	/^long ifile_size;      \/* input file size, -1 for devices (debug only) *\/$/;"	v	language:C
+ifile_size	zcat.c	/^long ifile_size;      \/* input file size, -1 for devices (debug only) *\/$/;"	v	language:C
+ifname	archival/gzip.c	/^char ifname[MAX_PATH_LEN]; \/* input file name *\/$/;"	v	language:C
+ifname	gzip.c	/^char ifname[MAX_PATH_LEN]; \/* input file name *\/$/;"	v	language:C
+inHeader	archival/tar.c	/^static	BOOL		inHeader;$/;"	v	language:C	file:
+inHeader	tar.c	/^static	BOOL		inHeader;$/;"	v	language:C	file:
+inflate	zcat.c	/^int inflate()$/;"	f	language:C
+inflate_block	zcat.c	/^int inflate_block(e)$/;"	f	language:C
+inflate_codes	zcat.c	/^int inflate_codes(tl, td, bl, bd)$/;"	f	language:C
+inflate_dynamic	zcat.c	/^int inflate_dynamic()$/;"	f	language:C
+inflate_fixed	zcat.c	/^int inflate_fixed()$/;"	f	language:C
+inflate_stored	zcat.c	/^int inflate_stored()$/;"	f	language:C
+init_block	archival/gzip.c	/^local void init_block()$/;"	f	language:C
+init_block	gzip.c	/^local void init_block()$/;"	f	language:C
+init_main	init.c	/^init_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+init_main	init/init.c	/^init_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+init_usage	init.c	/^const char		init_usage[] = "Used internally by the system.";$/;"	v	language:C
+init_usage	init/init.c	/^const char		init_usage[] = "Used internally by the system.";$/;"	v	language:C
+inptr	archival/gzip.c	/^unsigned inptr;            \/* index of next byte to be processed in inbuf *\/$/;"	v	language:C
+inptr	gzip.c	/^unsigned inptr;            \/* index of next byte to be processed in inbuf *\/$/;"	v	language:C
+inptr	zcat.c	/^unsigned inptr;            \/* index of next byte to be processed in inbuf *\/$/;"	v	language:C
+input_len	archival/gzip.c	/^local ulg input_len;      \/* total byte length of input file *\/$/;"	v	language:C
+input_len	gzip.c	/^local ulg input_len;      \/* total byte length of input file *\/$/;"	v	language:C
+ins_h	archival/gzip.c	/^local unsigned ins_h;  \/* hash index of string to be inserted *\/$/;"	v	language:C
+ins_h	gzip.c	/^local unsigned ins_h;  \/* hash index of string to be inserted *\/$/;"	v	language:C
+insize	archival/gzip.c	/^unsigned insize;           \/* valid bytes in inbuf *\/$/;"	v	language:C
+insize	gzip.c	/^unsigned insize;           \/* valid bytes in inbuf *\/$/;"	v	language:C
+insize	zcat.c	/^unsigned insize;           \/* valid bytes in inbuf *\/$/;"	v	language:C
+invocationName	chown.c	/^static char* invocationName=NULL;$/;"	v	language:C	file:
+invocationName	coreutils/chown.c	/^static char* invocationName=NULL;$/;"	v	language:C	file:
+isBlank	internal.h	46;"	d	language:C++
+isDecimal	internal.h	47;"	d	language:C++
+isDevice	utility.c	/^isDevice(const char * name)$/;"	f	language:C	signature:(const char * name)
+isDirectory	utility.c	/^isDirectory(const char * name)$/;"	f	language:C	signature:(const char * name)
+isOctal	internal.h	48;"	d	language:C++
+isSymbolicLink	internal.h	/^	unsigned int	isSymbolicLink:1;$/;"	m	language:C++	struct:FileInfo
+isWildCard	internal.h	49;"	d	language:C++
+isatty	archival/gzip.c	611;"	d	language:C	file:
+isatty	gzip.c	611;"	d	language:C	file:
+isize	archival/gzip.c	154;"	d	language:C	file:
+isize	gzip.c	154;"	d	language:C	file:
+isodigit	coreutils/printf.c	124;"	d	language:C	file:
+isodigit	printf.c	124;"	d	language:C	file:
+istat	archival/gzip.c	/^struct stat istat;         \/* status for input file *\/$/;"	v	language:C	typeref:struct:stat
+istat	gzip.c	/^struct stat istat;         \/* status for input file *\/$/;"	v	language:C	typeref:struct:stat
+istat	zcat.c	/^struct stat istat;         \/* status for input file *\/$/;"	v	language:C	typeref:struct:stat
+key	zcat.c	/^char *key;          \/* not used--needed to link crypt.c *\/$/;"	v	language:C
+kill_main	kill.c	/^kill_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+kill_main	procps/kill.c	/^kill_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+kill_usage	kill.c	/^const char	kill_usage[] = "kill [-signal] process-id [process-id ...]\\n";$/;"	v	language:C
+kill_usage	procps/kill.c	/^const char	kill_usage[] = "kill [-signal] process-id [process-id ...]\\n";$/;"	v	language:C
+klog	dmesg.c	23;"	d	language:C	file:
+klog	util-linux/dmesg.c	23;"	d	language:C	file:
+l_buf	archival/gzip.c	2117;"	d	language:C	file:
+l_buf	gzip.c	2117;"	d	language:C	file:
+l_desc	archival/gzip.c	/^local tree_desc near l_desc =$/;"	v	language:C
+l_desc	gzip.c	/^local tree_desc near l_desc =$/;"	v	language:C
+last_dist	archival/gzip.c	/^local unsigned last_dist;   \/* running index in d_buf *\/$/;"	v	language:C
+last_dist	gzip.c	/^local unsigned last_dist;   \/* running index in d_buf *\/$/;"	v	language:C
+last_flags	archival/gzip.c	/^local unsigned last_flags;  \/* running index in flag_buf *\/$/;"	v	language:C
+last_flags	gzip.c	/^local unsigned last_flags;  \/* running index in flag_buf *\/$/;"	v	language:C
+last_lit	archival/gzip.c	/^local unsigned last_lit;    \/* running index in l_buf *\/$/;"	v	language:C
+last_lit	gzip.c	/^local unsigned last_lit;    \/* running index in l_buf *\/$/;"	v	language:C
+last_member	archival/gzip.c	/^int last_member;      \/* set for .zip and .Z files *\/$/;"	v	language:C
+last_member	gzip.c	/^int last_member;      \/* set for .zip and .Z files *\/$/;"	v	language:C
+last_member	zcat.c	/^int last_member;      \/* set for .zip and .Z files *\/$/;"	v	language:C
+lbits	zcat.c	/^int lbits = 9;          \/* bits in base literal\/length lookup table *\/$/;"	v	language:C
+len	archival/gzip.c	/^        ush  len;        \/* length of bit string *\/$/;"	m	language:C	union:ct_data::__anon8	file:
+len	gzip.c	/^        ush  len;        \/* length of bit string *\/$/;"	m	language:C	union:ct_data::__anon4	file:
+length_code	archival/gzip.c	/^local uch length_code[MAX_MATCH-MIN_MATCH+1];$/;"	v	language:C
+length_code	gzip.c	/^local uch length_code[MAX_MATCH-MIN_MATCH+1];$/;"	v	language:C
+length_main	coreutils/length.c	/^length_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+length_main	length.c	/^length_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+length_usage	coreutils/length.c	/^const char			length_usage[] = "length string";$/;"	v	language:C
+length_usage	length.c	/^const char			length_usage[] = "length string";$/;"	v	language:C
+linkName	archival/tar.c	/^	char	linkName[TAR_NAME_SIZE];$/;"	m	language:C	struct:__anon9	file:
+linkName	tar.c	/^	char	linkName[TAR_NAME_SIZE];$/;"	m	language:C	struct:__anon13	file:
+listFlag	archival/tar.c	/^static	BOOL		listFlag;$/;"	v	language:C	file:
+listFlag	tar.c	/^static	BOOL		listFlag;$/;"	v	language:C	file:
+list_item	coreutils/ls.c	/^static int list_item(const char *name)$/;"	f	language:C	file:	signature:(const char *name)
+list_item	ls.c	/^static int list_item(const char *name)$/;"	f	language:C	file:	signature:(const char *name)
+list_single	coreutils/ls.c	/^static void list_single(const char *name, struct stat *info)$/;"	f	language:C	file:	signature:(const char *name, struct stat *info)
+list_single	ls.c	/^static void list_single(const char *name, struct stat *info)$/;"	f	language:C	file:	signature:(const char *name, struct stat *info)
+lm_init	archival/gzip.c	/^void lm_init (flags)$/;"	f	language:C
+lm_init	gzip.c	/^void lm_init (flags)$/;"	f	language:C
+ln_fn	coreutils/ln.c	/^ln_fn(const struct FileInfo * i)$/;"	f	language:C	signature:(const struct FileInfo * i)
+ln_fn	ln.c	/^ln_fn(const struct FileInfo * i)$/;"	f	language:C	signature:(const struct FileInfo * i)
+ln_usage	coreutils/ln.c	/^const char	ln_usage[] = "ln [-s] [-f] original-name additional-name\\n"$/;"	v	language:C
+ln_usage	ln.c	/^const char	ln_usage[] = "ln [-s] [-f] original-name additional-name\\n"$/;"	v	language:C
+lo_device	losetup.c	/^	dev_t		lo_device; 	\/* ioctl r\/o *\/$/;"	m	language:C	struct:loop_info	file:
+lo_encrypt_key	losetup.c	/^	unsigned char	lo_encrypt_key[LO_KEY_SIZE]; \/* ioctl w\/o *\/$/;"	m	language:C	struct:loop_info	file:
+lo_encrypt_key_size	losetup.c	/^	int		lo_encrypt_key_size; 	\/* ioctl w\/o *\/$/;"	m	language:C	struct:loop_info	file:
+lo_encrypt_type	losetup.c	/^	int		lo_encrypt_type;$/;"	m	language:C	struct:loop_info	file:
+lo_flags	losetup.c	/^	int		lo_flags;	\/* ioctl r\/o *\/$/;"	m	language:C	struct:loop_info	file:
+lo_init	losetup.c	/^	unsigned long	lo_init[2];$/;"	m	language:C	struct:loop_info	file:
+lo_inode	losetup.c	/^	unsigned long	lo_inode; 	\/* ioctl r\/o *\/$/;"	m	language:C	struct:loop_info	file:
+lo_name	losetup.c	/^	char		lo_name[LO_NAME_SIZE];$/;"	m	language:C	struct:loop_info	file:
+lo_number	losetup.c	/^	int		lo_number;	\/* ioctl r\/o *\/$/;"	m	language:C	struct:loop_info	file:
+lo_offset	losetup.c	/^	int		lo_offset;$/;"	m	language:C	struct:loop_info	file:
+lo_rdevice	losetup.c	/^	dev_t		lo_rdevice; 	\/* ioctl r\/o *\/$/;"	m	language:C	struct:loop_info	file:
+loadkmap_main	console-tools/loadkmap.c	/^loadkmap_main(struct FileInfo * info, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * info, int argc, char * * argv)
+loadkmap_main	loadkmap.c	/^loadkmap_main(struct FileInfo * info, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * info, int argc, char * * argv)
+loadkmap_usage	console-tools/loadkmap.c	/^const char			loadkmap_usage[] = "loadkmap\\n"$/;"	v	language:C
+loadkmap_usage	loadkmap.c	/^const char			loadkmap_usage[] = "loadkmap\\n"$/;"	v	language:C
+local	archival/gzip.c	57;"	d	language:C	file:
+local	gzip.c	57;"	d	language:C	file:
+local	zcat.c	133;"	d	language:C	file:
+log	init.c	/^const char		log[] = "\/dev\/tty3";$/;"	v	language:C
+log	init/init.c	/^const char		log[] = "\/dev\/tty3";$/;"	v	language:C
+long_options	coreutils/date.c	/^static struct option const long_options[] =$/;"	v	language:C	file:
+long_options	date.c	/^static struct option const long_options[] =$/;"	v	language:C	file:
+longest_match	archival/gzip.c	/^int longest_match(cur_match)$/;"	f	language:C
+longest_match	gzip.c	/^int longest_match(cur_match)$/;"	f	language:C
+lookahead	archival/gzip.c	/^local unsigned      lookahead;     \/* number of valid bytes ahead in window *\/$/;"	v	language:C
+lookahead	gzip.c	/^local unsigned      lookahead;     \/* number of valid bytes ahead in window *\/$/;"	v	language:C
+loop_info	losetup.c	/^struct loop_info {$/;"	s	language:C	file:
+losetup_main	losetup.c	/^int losetup_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+losetup_usage	losetup.c	/^const char	losetup_usage[] = "losetup\\n"$/;"	v	language:C
+losetup_usage_fn	losetup.c	/^static int losetup_usage_fn(void)$/;"	f	language:C	file:	signature:(void)
+ls_main	coreutils/ls.c	/^ls_main(struct FileInfo * not_used, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * not_used, int argc, char * * argv)
+ls_main	ls.c	/^ls_main(struct FileInfo * not_used, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * not_used, int argc, char * * argv)
+ls_usage	coreutils/ls.c	/^const char	ls_usage[] = "Usage: ls [-1a"$/;"	v	language:C
+ls_usage	ls.c	/^const char	ls_usage[] = "Usage: ls [-1a"$/;"	v	language:C
+magic	archival/tar.c	/^	char	magic[6];$/;"	m	language:C	struct:__anon9	file:
+magic	tar.c	/^	char	magic[6];$/;"	m	language:C	struct:__anon13	file:
+main	applets/busybox.c	/^int main(int argc, char **argv)$/;"	f	language:C	signature:(int argc, char **argv)
+main	busybox.c	/^int main(int argc, char **argv)$/;"	f	language:C	signature:(int argc, char **argv)
+main	internal.h	/^	int	(*main)(int argc, char** argv);$/;"	m	language:C++	struct:Applet
+makeParentDirectories	internal.h	/^	unsigned int	makeParentDirectories:1;$/;"	m	language:C++	struct:FileInfo
+makeString	utility.c	/^makeString($/;"	f	language:C	signature:( int argc, const char ** argv, char * buf, int bufLen )
+makeSymbolicLink	internal.h	/^	unsigned int	makeSymbolicLink:1;$/;"	m	language:C++	struct:FileInfo
+makedevs_main	makedevs.c	/^makedevs_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+makedevs_main	miscutils/makedevs.c	/^makedevs_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+makedevs_usage	makedevs.c	/^const char makedevs_usage[] = $/;"	v	language:C
+makedevs_usage	miscutils/makedevs.c	/^const char makedevs_usage[] = $/;"	v	language:C
+mask_bits	zcat.c	/^ush mask_bits[] = {$/;"	v	language:C
+match_mount	block_device.c	/^match_mount(const struct FileInfo * i) {$/;"	f	language:C	signature:(const struct FileInfo * i)
+match_start	archival/gzip.c	/^      unsigned near match_start;   \/* start of matching string *\/$/;"	v	language:C
+match_start	gzip.c	/^      unsigned near match_start;   \/* start of matching string *\/$/;"	v	language:C
+math_main	math.c	/^math_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+math_usage	math.c	/^const char			math_usage[] = "math expression ...";$/;"	v	language:C
+max_chain	archival/gzip.c	/^   ush max_chain;$/;"	m	language:C	struct:config	file:
+max_chain	gzip.c	/^   ush max_chain;$/;"	m	language:C	struct:config	file:
+max_chain_length	archival/gzip.c	/^unsigned near max_chain_length;$/;"	v	language:C
+max_chain_length	gzip.c	/^unsigned near max_chain_length;$/;"	v	language:C
+max_code	archival/gzip.c	/^    int     max_code;            \/* largest code with non zero frequency *\/$/;"	m	language:C	struct:tree_desc	file:
+max_code	gzip.c	/^    int     max_code;            \/* largest code with non zero frequency *\/$/;"	m	language:C	struct:tree_desc	file:
+max_insert_length	archival/gzip.c	1101;"	d	language:C	file:
+max_insert_length	gzip.c	1101;"	d	language:C	file:
+max_lazy	archival/gzip.c	/^   ush max_lazy;    \/* do not perform lazy search above this match length *\/$/;"	m	language:C	struct:config	file:
+max_lazy	gzip.c	/^   ush max_lazy;    \/* do not perform lazy search above this match length *\/$/;"	m	language:C	struct:config	file:
+max_lazy_match	archival/gzip.c	/^local unsigned int max_lazy_match;$/;"	v	language:C
+max_lazy_match	gzip.c	/^local unsigned int max_lazy_match;$/;"	v	language:C
+max_length	archival/gzip.c	/^    int     max_length;          \/* max bit length for the codes *\/$/;"	m	language:C	struct:tree_desc	file:
+max_length	gzip.c	/^    int     max_length;          \/* max bit length for the codes *\/$/;"	m	language:C	struct:tree_desc	file:
+maxbits	zcat.c	/^int maxbits = BITS;   \/* max bits per code for LZW *\/$/;"	v	language:C
+mem_total	init.c	/^mem_total()$/;"	f	language:C	file:
+mem_total	init/init.c	/^mem_total()$/;"	f	language:C	file:
+memcmp	archival/gzip.c	49;"	d	language:C	file:
+memcmp	gzip.c	49;"	d	language:C	file:
+memcmp	zcat.c	125;"	d	language:C	file:
+memcpy	archival/gzip.c	48;"	d	language:C	file:
+memcpy	gzip.c	48;"	d	language:C	file:
+memcpy	zcat.c	124;"	d	language:C	file:
+memzero	archival/gzip.c	43;"	d	language:C	file:
+memzero	archival/gzip.c	50;"	d	language:C	file:
+memzero	gzip.c	43;"	d	language:C	file:
+memzero	gzip.c	50;"	d	language:C	file:
+memzero	zcat.c	119;"	d	language:C	file:
+memzero	zcat.c	126;"	d	language:C	file:
+message	init.c	/^message(const char * terminal, const char * pattern, ...)$/;"	f	language:C	file:	signature:(const char * terminal, const char * pattern, ...)
+message	init/init.c	/^message(const char * terminal, const char * pattern, ...)$/;"	f	language:C	file:	signature:(const char * terminal, const char * pattern, ...)
+method	archival/gzip.c	/^static int method = DEFLATED;\/* compression method *\/$/;"	v	language:C	file:
+method	gzip.c	/^static int method = DEFLATED;\/* compression method *\/$/;"	v	language:C	file:
+method	zcat.c	/^int method = DEFLATED;\/* compression method *\/$/;"	v	language:C
+mkdir_fn	coreutils/mkdir.c	/^mkdir_fn(const struct FileInfo * i)$/;"	f	language:C	signature:(const struct FileInfo * i)
+mkdir_fn	mkdir.c	/^mkdir_fn(const struct FileInfo * i)$/;"	f	language:C	signature:(const struct FileInfo * i)
+mkdir_until	coreutils/mkdir.c	/^int mkdir_until(const char *fpath, const struct FileInfo * fi)$/;"	f	language:C	signature:(const char *fpath, const struct FileInfo * fi)
+mkdir_until	mkdir.c	/^int mkdir_until(const char *fpath, const struct FileInfo * fi)$/;"	f	language:C	signature:(const char *fpath, const struct FileInfo * fi)
+mkdir_usage	coreutils/mkdir.c	/^const char mkdir_usage[] = "mkdir [-m mode] directory [directory ...]\\n"$/;"	v	language:C
+mkdir_usage	mkdir.c	/^const char mkdir_usage[] = "mkdir [-m mode] directory [directory ...]\\n"$/;"	v	language:C
+mknod_main	coreutils/mknod.c	/^mknod_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+mknod_main	mknod.c	/^mknod_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+mknod_usage	coreutils/mknod.c	/^const char mknod_usage[] = "mknod file b|c|u|p major minor\\n"$/;"	v	language:C
+mknod_usage	mknod.c	/^const char mknod_usage[] = "mknod file b|c|u|p major minor\\n"$/;"	v	language:C
+mkswap	mkswap.c	/^mkswap(char *device_name, int pages, int check)$/;"	f	language:C	signature:(char *device_name, int pages, int check)
+mkswap	util-linux/mkswap.c	/^mkswap(char *device_name, int pages, int check)$/;"	f	language:C	signature:(char *device_name, int pages, int check)
+mkswap_main	mkswap.c	/^int mkswap_main(struct FileInfo * unnecessary, int argc, char ** argv)$/;"	f	language:C	signature:(struct FileInfo * unnecessary, int argc, char ** argv)
+mkswap_main	util-linux/mkswap.c	/^int mkswap_main(struct FileInfo * unnecessary, int argc, char ** argv)$/;"	f	language:C	signature:(struct FileInfo * unnecessary, int argc, char ** argv)
+mkswap_usage	mkswap.c	/^const char	mkswap_usage[] = "mkswap [-c] partition [block-count]\\n"$/;"	v	language:C
+mkswap_usage	util-linux/mkswap.c	/^const char	mkswap_usage[] = "mkswap [-c] partition [block-count]\\n"$/;"	v	language:C
+mnc_main	mnc.c	/^mnc_main(struct FileInfo * i, int argc, char **argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char **argv)
+mnc_usage	mnc.c	/^const char mnc_usage[] = $/;"	v	language:C
+mode	archival/tar.c	/^	char	mode[8];$/;"	m	language:C	struct:__anon9	file:
+mode	tar.c	/^	char	mode[8];$/;"	m	language:C	struct:__anon13	file:
+modeString	archival/tar.c	/^modeString(int mode)$/;"	f	language:C	signature:(int mode)
+modeString	tar.c	/^modeString(int mode)$/;"	f	language:C	signature:(int mode)
+modeString	utility.c	/^modeString(int mode)$/;"	f	language:C	signature:(int mode)
+modtime	archival/gzip.c	/^         time_t modtime;$/;"	m	language:C	struct:utimbuf	file:
+modtime	gzip.c	/^         time_t modtime;$/;"	m	language:C	struct:utimbuf	file:
+monadic_main	monadic.c	/^monadic_main($/;"	f	language:C	signature:( struct FileInfo * i ,int argc ,char * * argv)
+more_main	more.c	/^extern int more_main(int argc, char **argv)$/;"	f	language:C	signature:(int argc, char **argv)
+more_main	util-linux/more.c	/^extern int more_main(int argc, char **argv)$/;"	f	language:C	signature:(int argc, char **argv)
+more_usage	more.c	/^const char more_usage[] = "[file ...]";$/;"	v	language:C
+more_usage	util-linux/more.c	/^const char more_usage[] = "[file ...]";$/;"	v	language:C
+mount_main	mount.c	/^mount_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+mount_main	util-linux/mount.c	/^mount_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+mount_one	mount.c	/^mount_one($/;"	f	language:C	signature:( char * blockDevice ,char * directory ,char * filesystemType ,unsigned long flags ,char * string_flags ,int noMtab ,int fake)
+mount_one	util-linux/mount.c	/^mount_one($/;"	f	language:C	signature:( char * blockDevice ,char * directory ,char * filesystemType ,unsigned long flags ,char * string_flags ,int noMtab ,int fake)
+mount_options	mount.c	/^static const struct mount_options	mount_options[] = {$/;"	v	language:C	typeref:struct:mount_options	file:
+mount_options	mount.c	/^struct mount_options {$/;"	s	language:C	file:
+mount_options	util-linux/mount.c	/^static const struct mount_options	mount_options[] = {$/;"	v	language:C	typeref:struct:mount_options	file:
+mount_options	util-linux/mount.c	/^struct mount_options {$/;"	s	language:C	file:
+mount_usage	mount.c	/^const char	mount_usage[] = "mount\\n"$/;"	v	language:C
+mount_usage	util-linux/mount.c	/^const char	mount_usage[] = "mount\\n"$/;"	v	language:C
+mt_main	miscutils/mt.c	/^mt_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+mt_main	mt.c	/^mt_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+mt_opcodes	miscutils/mt.c	/^struct mt_opcodes {$/;"	s	language:C	file:
+mt_opcodes	mt.c	/^struct mt_opcodes {$/;"	s	language:C	file:
+mt_usage	miscutils/mt.c	/^const char	mt_usage[] = "mt [-f device] opcode value\\n";$/;"	v	language:C
+mt_usage	mt.c	/^const char	mt_usage[] = "mt [-f device] opcode value\\n";$/;"	v	language:C
+mtime	archival/tar.c	/^	char	mtime[12];$/;"	m	language:C	struct:__anon9	file:
+mtime	tar.c	/^	char	mtime[12];$/;"	m	language:C	struct:__anon13	file:
+mul	math.c	/^mul()$/;"	f	language:C	file:
+mv_fn	coreutils/mv.c	/^mv_fn(const struct FileInfo * i)$/;"	f	language:C	signature:(const struct FileInfo * i)
+mv_fn	mv.c	/^mv_fn(const struct FileInfo * i)$/;"	f	language:C	signature:(const struct FileInfo * i)
+mv_usage	coreutils/mv.c	/^const char	mv_usage[] = "mv source-file destination-file\\n"$/;"	v	language:C
+mv_usage	mv.c	/^const char	mv_usage[] = "mv source-file destination-file\\n"$/;"	v	language:C
+my_device	block_device.c	/^static dev_t *my_device;$/;"	v	language:C	file:
+my_device_name	block_device.c	/^static char *my_device_name;$/;"	v	language:C	file:
+n	zcat.c	/^    ush n;              \/* literal, length base, or distance base *\/$/;"	m	language:C	union:huft::__anon10	file:
+name	archival/tar.c	/^	char	name[TAR_NAME_SIZE];$/;"	m	language:C	struct:__anon9	file:
+name	coreutils/dd.c	/^	const char *	name;$/;"	m	language:C	struct:__anon12	file:
+name	dd.c	/^	const char *	name;$/;"	m	language:C	struct:__anon11	file:
+name	internal.h	/^	const	char*	name;$/;"	m	language:C++	struct:Applet
+name	kill.c	/^	const char *	name;$/;"	m	language:C	struct:signal_name	file:
+name	math.c	/^	const char *	name;$/;"	m	language:C	struct:op	file:
+name	miscutils/mt.c	/^	char *	name;$/;"	m	language:C	struct:mt_opcodes	file:
+name	mount.c	/^	const char *	name;$/;"	m	language:C	struct:mount_options	file:
+name	mt.c	/^	char *	name;$/;"	m	language:C	struct:mt_opcodes	file:
+name	procps/kill.c	/^	const char *	name;$/;"	m	language:C	struct:signal_name	file:
+name	tar.c	/^	char	name[TAR_NAME_SIZE];$/;"	m	language:C	struct:__anon13	file:
+name	util-linux/mount.c	/^	const char *	name;$/;"	m	language:C	struct:mount_options	file:
+name	zcat.c	/^  const char *name;$/;"	m	language:C	struct:option	file:
+near	archival/gzip.c	416;"	d	language:C	file:
+near	archival/gzip.c	449;"	d	language:C	file:
+near	archival/gzip.c	472;"	d	language:C	file:
+near	archival/gzip.c	473;"	d	language:C	file:
+near	gzip.c	416;"	d	language:C	file:
+near	gzip.c	449;"	d	language:C	file:
+near	gzip.c	472;"	d	language:C	file:
+near	gzip.c	473;"	d	language:C	file:
+newline	coreutils/ls.c	/^static void newline(void)$/;"	f	language:C	file:	signature:(void)
+newline	ls.c	/^static void newline(void)$/;"	f	language:C	file:	signature:(void)
+next	internal.h	/^    CHUNK *next;$/;"	m	language:C++	struct:chunk
+nice_length	archival/gzip.c	/^   ush nice_length; \/* quit search above this match length *\/$/;"	m	language:C	struct:config	file:
+nice_length	gzip.c	/^   ush nice_length; \/* quit search above this match length *\/$/;"	m	language:C	struct:config	file:
+nice_match	archival/gzip.c	/^  int near nice_match; \/* Stop searching when current match exceeds this *\/$/;"	v	language:C
+nice_match	archival/gzip.c	1125;"	d	language:C	file:
+nice_match	gzip.c	/^  int near nice_match; \/* Stop searching when current match exceeds this *\/$/;"	v	language:C
+nice_match	gzip.c	1125;"	d	language:C	file:
+noDots	descend.c	/^noDots(const struct dirent * e)$/;"	f	language:C	file:	signature:(const struct dirent * e)
+no_argument	zcat.c	535;"	d	language:C	file:
+no_name	archival/gzip.c	/^int no_name = -1;     \/* don't save or restore the original file name *\/$/;"	v	language:C
+no_name	gzip.c	/^int no_name = -1;     \/* don't save or restore the original file name *\/$/;"	v	language:C
+no_time	archival/gzip.c	/^int no_time = -1;     \/* don't save or restore the original file time *\/$/;"	v	language:C
+no_time	gzip.c	/^int no_time = -1;     \/* don't save or restore the original file time *\/$/;"	v	language:C
+not	math.c	/^not()$/;"	f	language:C	file:
+nspaces	coreutils/ls.c	178;"	d	language:C	file:
+nspaces	coreutils/ls.c	191;"	d	language:C	file:
+nspaces	ls.c	178;"	d	language:C	file:
+nspaces	ls.c	191;"	d	language:C	file:
+number	kill.c	/^	int				number;$/;"	m	language:C	struct:signal_name	file:
+number	procps/kill.c	/^	int				number;$/;"	m	language:C	struct:signal_name	file:
+octtobin	coreutils/printf.c	126;"	d	language:C	file:
+octtobin	printf.c	126;"	d	language:C	file:
+ofd	archival/gzip.c	/^int  ofd;                  \/* output file descriptor *\/$/;"	v	language:C
+ofd	gzip.c	/^int  ofd;                  \/* output file descriptor *\/$/;"	v	language:C
+ofd	zcat.c	/^int  ofd;                  \/* output file descriptor *\/$/;"	v	language:C
+off_t	archival/gzip.c	/^  typedef long off_t;$/;"	t	language:C	file:
+off_t	gzip.c	/^  typedef long off_t;$/;"	t	language:C	file:
+off_t	zcat.c	/^  typedef long off_t;$/;"	t	language:C	file:
+ofname	archival/gzip.c	/^char ofname[MAX_PATH_LEN]; \/* output file name *\/$/;"	v	language:C
+ofname	gzip.c	/^char ofname[MAX_PATH_LEN]; \/* output file name *\/$/;"	v	language:C
+one_option	mount.c	/^one_option($/;"	f	language:C	file:	signature:( char * option ,unsigned long * flags ,char * data)
+one_option	util-linux/mount.c	/^one_option($/;"	f	language:C	file:	signature:( char * option ,unsigned long * flags ,char * data)
+op	math.c	/^struct op {$/;"	s	language:C	file:
+opcodes	miscutils/mt.c	/^static const struct mt_opcodes	opcodes[] = {$/;"	v	language:C	typeref:struct:mt_opcodes	file:
+opcodes	mt.c	/^static const struct mt_opcodes	opcodes[] = {$/;"	v	language:C	typeref:struct:mt_opcodes	file:
+operators	math.c	/^static const struct op	operators[] = {$/;"	v	language:C	typeref:struct:op	file:
+opt_len	archival/gzip.c	/^local ulg opt_len;        \/* bit length of current block with optimal trees *\/$/;"	v	language:C
+opt_len	gzip.c	/^local ulg opt_len;        \/* bit length of current block with optimal trees *\/$/;"	v	language:C
+option	zcat.c	/^struct option$/;"	s	language:C	file:
+optional_argument	zcat.c	537;"	d	language:C	file:
+opts	coreutils/ls.c	/^static unsigned short	opts = 0;$/;"	v	language:C	file:
+opts	ls.c	/^static unsigned short	opts = 0;$/;"	v	language:C	file:
+or	math.c	/^or()$/;"	f	language:C	file:
+or	mount.c	/^	unsigned long	or;$/;"	m	language:C	struct:mount_options	file:
+or	util-linux/mount.c	/^	unsigned long	or;$/;"	m	language:C	struct:mount_options	file:
+orWithMode	internal.h	/^	mode_t			orWithMode;$/;"	m	language:C++	struct:FileInfo
+outFd	archival/tar.c	/^static	int		outFd;$/;"	v	language:C	file:
+outFd	tar.c	/^static	int		outFd;$/;"	v	language:C	file:
+outName	archival/tar.c	/^static	char		outName[TAR_NAME_SIZE];$/;"	v	language:C	file:
+outName	tar.c	/^static	char		outName[TAR_NAME_SIZE];$/;"	v	language:C	file:
+outcnt	archival/gzip.c	/^unsigned outcnt;           \/* bytes in output buffer *\/$/;"	v	language:C
+outcnt	gzip.c	/^unsigned outcnt;           \/* bytes in output buffer *\/$/;"	v	language:C
+outcnt	zcat.c	/^unsigned outcnt;           \/* bytes in output buffer *\/$/;"	v	language:C
+params	coreutils/dd.c	/^static const PARAM	params[] =$/;"	v	language:C	file:
+params	dd.c	/^static const PARAM	params[] =$/;"	v	language:C	file:
+parse_mode	chmod.c	/^parse_mode($/;"	f	language:C	signature:( const char * s ,mode_t * or ,mode_t * and ,int * group_execute)
+parse_mode	coreutils/chmod.c	/^parse_mode($/;"	f	language:C	signature:( const char * s ,mode_t * or ,mode_t * and ,int * group_execute)
+parse_mount_options	mount.c	/^parse_mount_options($/;"	f	language:C	file:	signature:( char * options ,unsigned long * flags ,char * data)
+parse_mount_options	util-linux/mount.c	/^parse_mount_options($/;"	f	language:C	file:	signature:( char * options ,unsigned long * flags ,char * data)
+part_nb	archival/gzip.c	/^int part_nb;          \/* number of parts in .gz file *\/$/;"	v	language:C
+part_nb	gzip.c	/^int part_nb;          \/* number of parts in .gz file *\/$/;"	v	language:C
+part_nb	zcat.c	/^int part_nb;          \/* number of parts in .gz file *\/$/;"	v	language:C
+pkzip	zcat.c	/^int pkzip = 0;      \/* set for a pkzip file *\/$/;"	v	language:C
+pointer	math.c	/^static unsigned int	pointer;$/;"	v	language:C	file:
+pop	math.c	/^pop()$/;"	f	language:C	file:
+post_process	postprocess.c	/^post_process(const struct FileInfo * i)$/;"	f	language:C	signature:(const struct FileInfo * i)
+pqdownheap	archival/gzip.c	/^local void pqdownheap(tree, k)$/;"	f	language:C
+pqdownheap	gzip.c	/^local void pqdownheap(tree, k)$/;"	f	language:C
+pqremove	archival/gzip.c	2296;"	d	language:C	file:
+pqremove	gzip.c	2296;"	d	language:C	file:
+prefix	archival/tar.c	/^	char	prefix[155];$/;"	m	language:C	struct:__anon9	file:
+prefix	tar.c	/^	char	prefix[155];$/;"	m	language:C	struct:__anon13	file:
+prev_length	archival/gzip.c	/^unsigned int near prev_length;$/;"	v	language:C
+prev_length	gzip.c	/^unsigned int near prev_length;$/;"	v	language:C
+print	math.c	/^print()$/;"	f	language:C	file:
+print_direc	coreutils/printf.c	/^print_direc (char *start, size_t length, int field_width, int precision, char *argument)$/;"	f	language:C	file:	signature:(char *start, size_t length, int field_width, int precision, char *argument)
+print_direc	printf.c	/^print_direc (char *start, size_t length, int field_width, int precision, char *argument)$/;"	f	language:C	file:	signature:(char *start, size_t length, int field_width, int precision, char *argument)
+print_esc	coreutils/printf.c	/^print_esc (char *escstart)$/;"	f	language:C	file:	signature:(char *escstart)
+print_esc	printf.c	/^print_esc (char *escstart)$/;"	f	language:C	file:	signature:(char *escstart)
+print_esc_char	coreutils/printf.c	/^print_esc_char (int c)$/;"	f	language:C	file:	signature:(int c)
+print_esc_char	printf.c	/^print_esc_char (int c)$/;"	f	language:C	file:	signature:(int c)
+print_esc_string	coreutils/printf.c	/^print_esc_string (char *str)$/;"	f	language:C	file:	signature:(char *str)
+print_esc_string	printf.c	/^print_esc_string (char *str)$/;"	f	language:C	file:	signature:(char *str)
+print_formatted	coreutils/printf.c	/^print_formatted (char *format, int argc, char **argv)$/;"	f	language:C	file:	signature:(char *format, int argc, char **argv)
+print_formatted	printf.c	/^print_formatted (char *format, int argc, char **argv)$/;"	f	language:C	file:	signature:(char *format, int argc, char **argv)
+printf_main	coreutils/printf.c	/^printf_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+printf_main	printf.c	/^printf_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+printf_usage	coreutils/printf.c	/^const char	printf_usage[] = "Usage: printf format [argument...]\\n";$/;"	v	language:C
+printf_usage	printf.c	/^const char	printf_usage[] = "Usage: printf format [argument...]\\n";$/;"	v	language:C
+processDirectoriesAfterTheirContents	internal.h	/^	unsigned int	processDirectoriesAfterTheirContents;$/;"	m	language:C++	struct:FileInfo
+progname	archival/gzip.c	/^char *progname;       \/* program name *\/$/;"	v	language:C
+progname	gzip.c	/^char *progname;       \/* program name *\/$/;"	v	language:C
+program_name	mkswap.c	/^static const char * program_name = "mkswap";$/;"	v	language:C	file:
+program_name	util-linux/mkswap.c	/^static const char * program_name = "mkswap";$/;"	v	language:C	file:
+push	math.c	/^push(double a)$/;"	f	language:C	file:	signature:(double a)
+putOctal	archival/tar.c	/^putOctal(char * cp, int len, long value)$/;"	f	language:C	file:	signature:(char * cp, int len, long value)
+putOctal	tar.c	/^putOctal(char * cp, int len, long value)$/;"	f	language:C	file:	signature:(char * cp, int len, long value)
+put_byte	archival/gzip.c	224;"	d	language:C	file:
+put_byte	gzip.c	224;"	d	language:C	file:
+put_byte	zcat.c	282;"	d	language:C	file:
+put_char	archival/gzip.c	627;"	d	language:C	file:
+put_char	archival/gzip.c	710;"	d	language:C	file:
+put_char	gzip.c	627;"	d	language:C	file:
+put_char	gzip.c	710;"	d	language:C	file:
+put_char	zcat.c	88;"	d	language:C	file:
+put_long	archival/gzip.c	241;"	d	language:C	file:
+put_long	gzip.c	241;"	d	language:C	file:
+put_long	zcat.c	299;"	d	language:C	file:
+put_short	archival/gzip.c	230;"	d	language:C	file:
+put_short	gzip.c	230;"	d	language:C	file:
+put_short	zcat.c	288;"	d	language:C	file:
+put_ubyte	archival/gzip.c	226;"	d	language:C	file:
+put_ubyte	gzip.c	226;"	d	language:C	file:
+put_ubyte	zcat.c	284;"	d	language:C	file:
+pwd_main	coreutils/pwd.c	/^pwd_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+pwd_main	pwd.c	/^pwd_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+pwd_usage	coreutils/pwd.c	/^const char	pwd_usage[] = "Print the current directory.\\n";$/;"	v	language:C
+pwd_usage	pwd.c	/^const char	pwd_usage[] = "Print the current directory.\\n";$/;"	v	language:C
+rcsid	archival/gzip.c	/^static char rcsid[] = "$Id: gzip.c,v 1.1 1999\/10\/05 16:24:56 andersen Exp $";$/;"	v	language:C	file:
+rcsid	gzip.c	/^static char rcsid[] = "$Id: gzip.c,v 1.1 1999\/10\/05 16:24:56 andersen Exp $";$/;"	v	language:C	file:
+rcsid	zcat.c	/^static char rcsid[] = "$Id: zcat.c,v 1.1 1999\/10\/05 16:24:56 andersen Exp $";$/;"	v	language:C	file:
+readData	archival/tar.c	/^readData(const char * cp, int count)$/;"	f	language:C	file:	signature:(const char * cp, int count)
+readData	tar.c	/^readData(const char * cp, int count)$/;"	f	language:C	file:	signature:(const char * cp, int count)
+readHeader	archival/tar.c	/^readHeader(const TarHeader * hp, int fileCount, char ** fileTable)$/;"	f	language:C	file:	signature:(const TarHeader * hp, int fileCount, char ** fileTable)
+readHeader	tar.c	/^readHeader(const TarHeader * hp, int fileCount, char ** fileTable)$/;"	f	language:C	file:	signature:(const TarHeader * hp, int fileCount, char ** fileTable)
+readTarFile	archival/tar.c	/^readTarFile(int fileCount, char ** fileTable)$/;"	f	language:C	file:	signature:(int fileCount, char ** fileTable)
+readTarFile	tar.c	/^readTarFile(int fileCount, char ** fileTable)$/;"	f	language:C	file:	signature:(int fileCount, char ** fileTable)
+read_buf	archival/gzip.c	/^int (*read_buf) OF((char *buf, unsigned size));$/;"	v	language:C
+read_buf	gzip.c	/^int (*read_buf) OF((char *buf, unsigned size));$/;"	v	language:C
+read_error	zcat.c	/^void read_error()$/;"	f	language:C
+reboot_main	init/reboot.c	/^reboot_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+reboot_main	reboot.c	/^reboot_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+reboot_signal	init.c	/^reboot_signal(int sig)$/;"	f	language:C	file:	signature:(int sig)
+reboot_signal	init/init.c	/^reboot_signal(int sig)$/;"	f	language:C	file:	signature:(int sig)
+reboot_usage	init/reboot.c	/^const char	reboot_usage[] = "reboot\\n"$/;"	v	language:C
+reboot_usage	reboot.c	/^const char	reboot_usage[] = "reboot\\n"$/;"	v	language:C
+recursive	internal.h	/^	unsigned int	recursive:1;$/;"	m	language:C++	struct:FileInfo
+recursiveAction	utility.c	/^recursiveAction( const char *fileName, BOOL followLinks,$/;"	f	language:C	signature:( const char *fileName, BOOL followLinks, int (*fileAction)(const char* fileName), int (*dirAction)(const char* fileName))
+remove_ofname	archival/gzip.c	/^int  remove_ofname = 0;	   \/* remove output file on error *\/$/;"	v	language:C
+remove_ofname	gzip.c	/^int  remove_ofname = 0;	   \/* remove output file on error *\/$/;"	v	language:C
+required_argument	zcat.c	536;"	d	language:C	file:
+reserved	losetup.c	/^	char		reserved[4];$/;"	m	language:C	struct:loop_info	file:
+rm_fn	coreutils/rm.c	/^rm_fn(const struct FileInfo * i)$/;"	f	language:C	signature:(const struct FileInfo * i)
+rm_fn	rm.c	/^rm_fn(const struct FileInfo * i)$/;"	f	language:C	signature:(const struct FileInfo * i)
+rm_main	coreutils/rm.c	/^rm_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+rm_main	rm.c	/^rm_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+rm_usage	coreutils/rm.c	/^const char	rm_usage[] = "rm [-r] file [file ...]\\n"$/;"	v	language:C
+rm_usage	rm.c	/^const char	rm_usage[] = "rm [-r] file [file ...]\\n"$/;"	v	language:C
+rmdir_fn	coreutils/rmdir.c	/^rmdir_fn(const struct FileInfo * i)$/;"	f	language:C	signature:(const struct FileInfo * i)
+rmdir_fn	rmdir.c	/^rmdir_fn(const struct FileInfo * i)$/;"	f	language:C	signature:(const struct FileInfo * i)
+rmdir_usage	coreutils/rmdir.c	/^const char	rmdir_usage[] = "rmdir directory [directory ...]\\n"$/;"	v	language:C
+rmdir_usage	rmdir.c	/^const char	rmdir_usage[] = "rmdir directory [directory ...]\\n"$/;"	v	language:C
+run	init.c	/^run($/;"	f	language:C	file:	signature:( const char * program ,const char * const * arguments ,const char * terminal ,int get_enter)
+run	init/init.c	/^run($/;"	f	language:C	file:	signature:( const char * program ,const char * const * arguments ,const char * terminal ,int get_enter)
+saveDirectory	archival/tar.c	/^saveDirectory(const char * dirName, const struct stat * statbuf)$/;"	f	language:C	file:	signature:(const char * dirName, const struct stat * statbuf)
+saveDirectory	tar.c	/^saveDirectory(const char * dirName, const struct stat * statbuf)$/;"	f	language:C	file:	signature:(const char * dirName, const struct stat * statbuf)
+saveFile	archival/tar.c	/^saveFile(const char * fileName, BOOL seeLinks)$/;"	f	language:C	file:	signature:(const char * fileName, BOOL seeLinks)
+saveFile	tar.c	/^saveFile(const char * fileName, BOOL seeLinks)$/;"	f	language:C	file:	signature:(const char * fileName, BOOL seeLinks)
+saveRegularFile	archival/tar.c	/^saveRegularFile(const char * fileName, const struct stat * statbuf)$/;"	f	language:C	file:	signature:(const char * fileName, const struct stat * statbuf)
+saveRegularFile	tar.c	/^saveRegularFile(const char * fileName, const struct stat * statbuf)$/;"	f	language:C	file:	signature:(const char * fileName, const struct stat * statbuf)
+save_orig_name	archival/gzip.c	/^int save_orig_name;   \/* set if original name must be saved *\/$/;"	v	language:C
+save_orig_name	gzip.c	/^int save_orig_name;   \/* set if original name must be saved *\/$/;"	v	language:C
+scan_tree	archival/gzip.c	/^local void scan_tree (tree, max_code)$/;"	f	language:C
+scan_tree	gzip.c	/^local void scan_tree (tree, max_code)$/;"	f	language:C
+search	findutils/grep.c	/^search(const char * string, const char * word, BOOL ignoreCase)$/;"	f	language:C	file:	signature:(const char * string, const char * word, BOOL ignoreCase)
+search	grep.c	/^search(const char * string, const char * word, BOOL ignoreCase)$/;"	f	language:C	file:	signature:(const char * string, const char * word, BOOL ignoreCase)
+second_terminal	init.c	/^const char *	second_terminal = "\/dev\/tty2";$/;"	v	language:C
+second_terminal	init/init.c	/^const char *	second_terminal = "\/dev\/tty2";$/;"	v	language:C
+seekable	archival/gzip.c	246;"	d	language:C	file:
+seekable	gzip.c	246;"	d	language:C	file:
+seekable	zcat.c	304;"	d	language:C	file:
+send_all_trees	archival/gzip.c	/^local void send_all_trees(lcodes, dcodes, blcodes)$/;"	f	language:C
+send_all_trees	gzip.c	/^local void send_all_trees(lcodes, dcodes, blcodes)$/;"	f	language:C
+send_bits	archival/gzip.c	/^void send_bits(value, length)$/;"	f	language:C
+send_bits	gzip.c	/^void send_bits(value, length)$/;"	f	language:C
+send_code	archival/gzip.c	2174;"	d	language:C	file:
+send_code	archival/gzip.c	2178;"	d	language:C	file:
+send_code	gzip.c	2174;"	d	language:C	file:
+send_code	gzip.c	2178;"	d	language:C	file:
+send_tree	archival/gzip.c	/^local void send_tree (tree, max_code)$/;"	f	language:C
+send_tree	gzip.c	/^local void send_tree (tree, max_code)$/;"	f	language:C
+set_free_pages	init.c	/^set_free_pages()$/;"	f	language:C	file:
+set_free_pages	init/init.c	/^set_free_pages()$/;"	f	language:C	file:
+set_loop	losetup.c	/^int set_loop(const char *device, const char *file, int offset, int *loopro)$/;"	f	language:C	signature:(const char *device, const char *file, int offset, int *loopro)
+show_flags	mount.c	/^show_flags(unsigned long flags, char * buffer)$/;"	f	language:C	file:	signature:(unsigned long flags, char * buffer)
+show_flags	util-linux/mount.c	/^show_flags(unsigned long flags, char * buffer)$/;"	f	language:C	file:	signature:(unsigned long flags, char * buffer)
+show_loop	losetup.c	/^static void show_loop(const char *device)$/;"	f	language:C	file:	signature:(const char *device)
+shutdown_system	init.c	/^shutdown_system(int do_reboot)$/;"	f	language:C	file:	signature:(int do_reboot)
+shutdown_system	init/init.c	/^shutdown_system(int do_reboot)$/;"	f	language:C	file:	signature:(int do_reboot)
+sig_type	archival/gzip.c	/^typedef RETSIGTYPE (*sig_type) OF((int));$/;"	t	language:C	file:
+sig_type	gzip.c	/^typedef RETSIGTYPE (*sig_type) OF((int));$/;"	t	language:C	file:
+sig_type	zcat.c	/^typedef RETSIGTYPE (*sig_type) OF((int));$/;"	t	language:C	file:
+signal_name	kill.c	/^struct signal_name {$/;"	s	language:C	file:
+signal_name	procps/kill.c	/^struct signal_name {$/;"	s	language:C	file:
+signames	kill.c	/^const struct signal_name signames[] = {$/;"	v	language:C	typeref:struct:signal_name
+signames	procps/kill.c	/^const struct signal_name signames[] = {$/;"	v	language:C	typeref:struct:signal_name
+size	archival/tar.c	/^	char	size[12];$/;"	m	language:C	struct:__anon9	file:
+size	tar.c	/^	char	size[12];$/;"	m	language:C	struct:__anon13	file:
+skipFileFlag	archival/tar.c	/^static	BOOL		skipFileFlag;$/;"	v	language:C	file:
+skipFileFlag	tar.c	/^static	BOOL		skipFileFlag;$/;"	v	language:C	file:
+sleep_main	coreutils/sleep.c	/^sleep_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+sleep_main	sleep.c	/^sleep_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+sleep_usage	coreutils/sleep.c	/^const char	sleep_usage[] = "sleep seconds\\n"$/;"	v	language:C
+sleep_usage	sleep.c	/^const char	sleep_usage[] = "sleep seconds\\n"$/;"	v	language:C
+slide	zcat.c	1421;"	d	language:C	file:
+smaller	archival/gzip.c	2307;"	d	language:C	file:
+smaller	gzip.c	2307;"	d	language:C	file:
+source	internal.h	/^	const char*	source;$/;"	m	language:C++	struct:FileInfo
+stack	math.c	/^static double		stack[100];$/;"	v	language:C	file:
+stack_machine	math.c	/^stack_machine(const char * argument)$/;"	f	language:C	file:	signature:(const char * argument)
+stat	internal.h	/^	struct stat		stat;$/;"	m	language:C++	struct:FileInfo	typeref:struct:FileInfo::stat
+static_dtree	archival/gzip.c	/^local ct_data near static_dtree[D_CODES];$/;"	v	language:C
+static_dtree	gzip.c	/^local ct_data near static_dtree[D_CODES];$/;"	v	language:C
+static_len	archival/gzip.c	/^local ulg static_len;     \/* bit length of current block with static trees *\/$/;"	v	language:C
+static_len	gzip.c	/^local ulg static_len;     \/* bit length of current block with static trees *\/$/;"	v	language:C
+static_ltree	archival/gzip.c	/^local ct_data near static_ltree[L_CODES+2];$/;"	v	language:C
+static_ltree	gzip.c	/^local ct_data near static_ltree[L_CODES+2];$/;"	v	language:C
+static_tree	archival/gzip.c	/^    ct_data near *static_tree;   \/* corresponding static tree or NULL *\/$/;"	m	language:C	struct:tree_desc	file:
+static_tree	gzip.c	/^    ct_data near *static_tree;   \/* corresponding static tree or NULL *\/$/;"	m	language:C	struct:tree_desc	file:
+stralloc	umount.c	/^stralloc(const char * string)$/;"	f	language:C	file:	signature:(const char * string)
+stralloc	util-linux/umount.c	/^stralloc(const char * string)$/;"	f	language:C	file:	signature:(const char * string)
+strchr	archival/gzip.c	46;"	d	language:C	file:
+strchr	gzip.c	46;"	d	language:C	file:
+strchr	zcat.c	122;"	d	language:C	file:
+strcspn	zcat.c	/^int strcspn(s, reject)$/;"	f	language:C
+strequ	archival/gzip.c	1778;"	d	language:C	file:
+strequ	gzip.c	1778;"	d	language:C	file:
+strequ	zcat.c	698;"	d	language:C	file:
+strrchr	archival/gzip.c	47;"	d	language:C	file:
+strrchr	gzip.c	47;"	d	language:C	file:
+strrchr	zcat.c	123;"	d	language:C	file:
+strspn	zcat.c	/^int strspn(s, accept)$/;"	f	language:C
+strstart	archival/gzip.c	/^      unsigned near strstart;      \/* start of string to insert *\/$/;"	v	language:C
+strstart	gzip.c	/^      unsigned near strstart;      \/* start of string to insert *\/$/;"	v	language:C
+sub	math.c	/^sub()$/;"	f	language:C	file:
+swapoff_fn	swapoff.c	/^swapoff_fn(const struct FileInfo * i)$/;"	f	language:C	signature:(const struct FileInfo * i)
+swapoff_usage	swapoff.c	/^const char	swapoff_usage[] = "swapoff block-device\\n"$/;"	v	language:C
+swapon_fn	swapon.c	/^swapon_fn(const struct FileInfo * i)$/;"	f	language:C	signature:(const struct FileInfo * i)
+swapon_usage	swapon.c	/^const char	swapon_usage[] = "swapon block-device\\n"$/;"	v	language:C
+sync_main	coreutils/sync.c	/^sync_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+sync_main	sync.c	/^sync_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+sync_usage	coreutils/sync.c	/^const char	sync_usage[] = "sync\\n"$/;"	v	language:C
+sync_usage	sync.c	/^const char	sync_usage[] = "sync\\n"$/;"	v	language:C
+t	zcat.c	/^    struct huft *t;     \/* pointer to next level of table *\/$/;"	m	language:C	union:huft::__anon10	typeref:struct:huft::__anon10::huft	file:
+tab	coreutils/ls.c	/^static void tab(short col)$/;"	f	language:C	file:	signature:(short col)
+tab	ls.c	/^static void tab(short col)$/;"	f	language:C	file:	signature:(short col)
+tab_prefix	archival/gzip.c	136;"	d	language:C	file:
+tab_prefix	gzip.c	136;"	d	language:C	file:
+tab_prefix	zcat.c	211;"	d	language:C	file:
+tab_prefix0	archival/gzip.c	140;"	d	language:C	file:
+tab_prefix0	gzip.c	140;"	d	language:C	file:
+tab_prefix0	zcat.c	215;"	d	language:C	file:
+tab_suffix	archival/gzip.c	134;"	d	language:C	file:
+tab_suffix	gzip.c	134;"	d	language:C	file:
+tab_suffix	zcat.c	209;"	d	language:C	file:
+tarDev	archival/tar.c	/^static	dev_t		tarDev;$/;"	v	language:C	file:
+tarDev	tar.c	/^static	dev_t		tarDev;$/;"	v	language:C	file:
+tarFd	archival/tar.c	/^static	int		tarFd;$/;"	v	language:C	file:
+tarFd	tar.c	/^static	int		tarFd;$/;"	v	language:C	file:
+tarInode	archival/tar.c	/^static	ino_t		tarInode;$/;"	v	language:C	file:
+tarInode	tar.c	/^static	ino_t		tarInode;$/;"	v	language:C	file:
+tarName	archival/tar.c	/^static	const char *	tarName;$/;"	v	language:C	file:
+tarName	tar.c	/^static	const char *	tarName;$/;"	v	language:C	file:
+tar_main	archival/tar.c	/^tar_main(struct FileInfo *unused, int argc, char ** argv)$/;"	f	language:C	signature:(struct FileInfo *unused, int argc, char ** argv)
+tar_main	tar.c	/^tar_main(struct FileInfo *unused, int argc, char ** argv)$/;"	f	language:C	signature:(struct FileInfo *unused, int argc, char ** argv)
+tar_usage	archival/tar.c	/^const char tar_usage[] = $/;"	v	language:C
+tar_usage	tar.c	/^const char tar_usage[] = $/;"	v	language:C
+term_ptr	init.c	/^char * term_ptr = NULL;$/;"	v	language:C
+term_ptr	init/init.c	/^char * term_ptr = NULL;$/;"	v	language:C
+terminal_width	coreutils/ls.c	/^static unsigned short terminal_width = 0, column_width = 0;$/;"	v	language:C	file:
+terminal_width	coreutils/ls.c	137;"	d	language:C	file:
+terminal_width	ls.c	/^static unsigned short terminal_width = 0, column_width = 0;$/;"	v	language:C	file:
+terminal_width	ls.c	137;"	d	language:C	file:
+timeString	archival/tar.c	/^timeString(time_t timeVal)$/;"	f	language:C	signature:(time_t timeVal)
+timeString	tar.c	/^timeString(time_t timeVal)$/;"	f	language:C	signature:(time_t timeVal)
+time_fmt	coreutils/ls.c	/^static unsigned char time_fmt = TIME_MOD;$/;"	v	language:C	file:
+time_fmt	ls.c	/^static unsigned char time_fmt = TIME_MOD;$/;"	v	language:C	file:
+time_stamp	archival/gzip.c	/^long time_stamp;      \/* original time stamp (modification time) *\/$/;"	v	language:C
+time_stamp	gzip.c	/^long time_stamp;      \/* original time stamp (modification time) *\/$/;"	v	language:C
+to_stdout	archival/gzip.c	/^int to_stdout = 0;    \/* output to stdout (-c) *\/$/;"	v	language:C
+to_stdout	gzip.c	/^int to_stdout = 0;    \/* output to stdout (-c) *\/$/;"	v	language:C
+tolow	archival/gzip.c	249;"	d	language:C	file:
+tolow	gzip.c	249;"	d	language:C	file:
+tolow	zcat.c	307;"	d	language:C	file:
+tostdoutFlag	archival/tar.c	/^static	BOOL		tostdoutFlag;$/;"	v	language:C	file:
+tostdoutFlag	tar.c	/^static	BOOL		tostdoutFlag;$/;"	v	language:C	file:
+total_in	zcat.c	/^long total_in = 0;         \/* input bytes for all files *\/$/;"	v	language:C
+total_out	zcat.c	/^long total_out = 0;        \/* output bytes for all files *\/$/;"	v	language:C
+touch_fn	coreutils/touch.c	/^touch_fn(const struct FileInfo * i)$/;"	f	language:C	signature:(const struct FileInfo * i)
+touch_fn	touch.c	/^touch_fn(const struct FileInfo * i)$/;"	f	language:C	signature:(const struct FileInfo * i)
+touch_usage	coreutils/touch.c	/^const char	touch_usage[] = "touch [-c] file [file ...]\\n"$/;"	v	language:C
+touch_usage	touch.c	/^const char	touch_usage[] = "touch [-c] file [file ...]\\n"$/;"	v	language:C
+translate_eol	archival/gzip.c	247;"	d	language:C	file:
+translate_eol	gzip.c	247;"	d	language:C	file:
+translate_eol	zcat.c	305;"	d	language:C	file:
+treat_stdin	archival/gzip.c	/^local void treat_stdin()$/;"	f	language:C
+treat_stdin	gzip.c	/^local void treat_stdin()$/;"	f	language:C
+treat_stdin	zcat.c	/^local void treat_stdin()$/;"	f	language:C
+tree_desc	archival/gzip.c	/^typedef struct tree_desc {$/;"	s	language:C	file:
+tree_desc	archival/gzip.c	/^} tree_desc;$/;"	t	language:C	typeref:struct:tree_desc	file:
+tree_desc	gzip.c	/^typedef struct tree_desc {$/;"	s	language:C	file:
+tree_desc	gzip.c	/^} tree_desc;$/;"	t	language:C	typeref:struct:tree_desc	file:
+try_byte	archival/gzip.c	217;"	d	language:C	file:
+try_byte	gzip.c	217;"	d	language:C	file:
+try_byte	zcat.c	275;"	d	language:C	file:
+typeFlag	archival/tar.c	/^	char	typeFlag;$/;"	m	language:C	struct:__anon9	file:
+typeFlag	tar.c	/^	char	typeFlag;$/;"	m	language:C	struct:__anon13	file:
+uch	archival/gzip.c	/^typedef unsigned char  uch;$/;"	t	language:C	file:
+uch	gzip.c	/^typedef unsigned char  uch;$/;"	t	language:C	file:
+uch	zcat.c	/^typedef unsigned char  uch;$/;"	t	language:C	file:
+uid	archival/tar.c	/^	char	uid[8];$/;"	m	language:C	struct:__anon9	file:
+uid	chown.c	/^static int uid=-1;$/;"	v	language:C	file:
+uid	coreutils/chown.c	/^static int uid=-1;$/;"	v	language:C	file:
+uid	tar.c	/^	char	uid[8];$/;"	m	language:C	struct:__anon13	file:
+ulg	archival/gzip.c	/^typedef unsigned long  ulg;$/;"	t	language:C	file:
+ulg	gzip.c	/^typedef unsigned long  ulg;$/;"	t	language:C	file:
+ulg	zcat.c	/^typedef unsigned long  ulg;$/;"	t	language:C	file:
+umount_all	umount.c	/^umount_all(int noMtab)$/;"	f	language:C	file:	signature:(int noMtab)
+umount_all	util-linux/umount.c	/^umount_all(int noMtab)$/;"	f	language:C	file:	signature:(int noMtab)
+umount_main	umount.c	/^umount_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+umount_main	util-linux/umount.c	/^umount_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+umount_usage	umount.c	/^const char	umount_usage[] = "umount {filesystem|directory}\\n"$/;"	v	language:C
+umount_usage	util-linux/umount.c	/^const char	umount_usage[] = "umount {filesystem|directory}\\n"$/;"	v	language:C
+uname	archival/tar.c	/^	char	uname[32];$/;"	m	language:C	struct:__anon9	file:
+uname	tar.c	/^	char	uname[32];$/;"	m	language:C	struct:__anon13	file:
+unlink	archival/gzip.c	550;"	d	language:C	file:
+unlink	gzip.c	550;"	d	language:C	file:
+unzip	zcat.c	/^int unzip(in, out)$/;"	f	language:C
+update_main	miscutils/update.c	/^update_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+update_main	update.c	/^update_main(struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+update_usage	miscutils/update.c	/^const char	update_usage[] = "update\\n"$/;"	v	language:C
+update_usage	update.c	/^const char	update_usage[] = "update\\n"$/;"	v	language:C
+updcrc	zcat.c	/^ulg updcrc(s, n)$/;"	f	language:C
+userID	internal.h	/^	uid_t			userID;$/;"	m	language:C++	struct:FileInfo
+ush	archival/gzip.c	/^typedef unsigned short ush;$/;"	t	language:C	file:
+ush	gzip.c	/^typedef unsigned short ush;$/;"	t	language:C	file:
+ush	zcat.c	/^typedef unsigned short ush;$/;"	t	language:C	file:
+utimbuf	archival/gzip.c	/^       struct utimbuf {$/;"	s	language:C	file:
+utimbuf	gzip.c	/^       struct utimbuf {$/;"	s	language:C	file:
+v	zcat.c	/^  } v;$/;"	m	language:C	struct:huft	typeref:union:huft::__anon10	file:
+val	zcat.c	/^  int val;$/;"	m	language:C	struct:option	file:
+valid_offset	mkswap.c	/^static long valid_offset (int fd, int offset)$/;"	f	language:C	file:	signature:(int fd, int offset)
+valid_offset	util-linux/mkswap.c	/^static long valid_offset (int fd, int offset)$/;"	f	language:C	file:	signature:(int fd, int offset)
+value	coreutils/dd.c	/^	int		value;$/;"	m	language:C	struct:__anon12	file:
+value	dd.c	/^	int		value;$/;"	m	language:C	struct:__anon11	file:
+value	miscutils/mt.c	/^	short	value;$/;"	m	language:C	struct:mt_opcodes	file:
+value	mt.c	/^	short	value;$/;"	m	language:C	struct:mt_opcodes	file:
+verboseFlag	archival/tar.c	/^static	BOOL		verboseFlag;$/;"	v	language:C	file:
+verboseFlag	tar.c	/^static	BOOL		verboseFlag;$/;"	v	language:C	file:
+verify	coreutils/printf.c	/^verify (char *s, char *end)$/;"	f	language:C	file:	signature:(char *s, char *end)
+verify	printf.c	/^verify (char *s, char *end)$/;"	f	language:C	file:	signature:(char *s, char *end)
+version	archival/tar.c	/^	char	version[2];$/;"	m	language:C	struct:__anon9	file:
+version	tar.c	/^	char	version[2];$/;"	m	language:C	struct:__anon13	file:
+voidp	archival/gzip.c	/^   typedef char *voidp;$/;"	t	language:C	file:
+voidp	archival/gzip.c	/^   typedef void *voidp;$/;"	t	language:C	file:
+voidp	gzip.c	/^   typedef char *voidp;$/;"	t	language:C	file:
+voidp	gzip.c	/^   typedef void *voidp;$/;"	t	language:C	file:
+voidp	zcat.c	/^   typedef char *voidp;$/;"	t	language:C	file:
+voidp	zcat.c	/^   typedef void *voidp;$/;"	t	language:C	file:
+volatile	mkswap.c	35;"	d	language:C	file:
+volatile	util-linux/mkswap.c	35;"	d	language:C	file:
+waitfor	init.c	/^waitfor(int pid)$/;"	f	language:C	file:	signature:(int pid)
+waitfor	init/init.c	/^waitfor(int pid)$/;"	f	language:C	file:	signature:(int pid)
+wantFileName	archival/tar.c	/^wantFileName(const char * fileName, int fileCount, char ** fileTable)$/;"	f	language:C	file:	signature:(const char * fileName, int fileCount, char ** fileTable)
+wantFileName	tar.c	/^wantFileName(const char * fileName, int fileCount, char ** fileTable)$/;"	f	language:C	file:	signature:(const char * fileName, int fileCount, char ** fileTable)
+warn	zcat.c	/^void warn(a, b)$/;"	f	language:C
+warnedRoot	archival/tar.c	/^static	BOOL		warnedRoot;$/;"	v	language:C	file:
+warnedRoot	tar.c	/^static	BOOL		warnedRoot;$/;"	v	language:C	file:
+window_size	archival/gzip.c	/^ulg window_size = (ulg)2*WSIZE;$/;"	v	language:C
+window_size	gzip.c	/^ulg window_size = (ulg)2*WSIZE;$/;"	v	language:C
+work	archival/gzip.c	/^static int (*work) OF((int infile, int outfile)) = zip; \/* function to call *\/$/;"	v	language:C	file:
+work	gzip.c	/^static int (*work) OF((int infile, int outfile)) = zip; \/* function to call *\/$/;"	v	language:C	file:
+work	zcat.c	/^int (*work) OF((int infile, int outfile)) = unzip; \/* function to call *\/$/;"	v	language:C
+wp	zcat.c	1461;"	d	language:C	file:
+wr	coreutils/ls.c	145;"	d	language:C	file:
+wr	ls.c	145;"	d	language:C	file:
+writeHeader	archival/tar.c	/^writeHeader(const char * fileName, const struct stat * statbuf)$/;"	f	language:C	file:	signature:(const char * fileName, const struct stat * statbuf)
+writeHeader	tar.c	/^writeHeader(const char * fileName, const struct stat * statbuf)$/;"	f	language:C	file:	signature:(const char * fileName, const struct stat * statbuf)
+writeTarBlock	archival/tar.c	/^writeTarBlock(const char * buf, int len)$/;"	f	language:C	file:	signature:(const char * buf, int len)
+writeTarBlock	tar.c	/^writeTarBlock(const char * buf, int len)$/;"	f	language:C	file:	signature:(const char * buf, int len)
+writeTarFile	archival/tar.c	/^writeTarFile(int fileCount, char ** fileTable)$/;"	f	language:C	file:	signature:(int fileCount, char ** fileTable)
+writeTarFile	tar.c	/^writeTarFile(int fileCount, char ** fileTable)$/;"	f	language:C	file:	signature:(int fileCount, char ** fileTable)
+write_buf	zcat.c	/^void write_buf(fd, buf, cnt)$/;"	f	language:C
+write_error	zcat.c	/^void write_error()$/;"	f	language:C
+writenum	coreutils/ls.c	/^static void writenum(long val, short minwidth)$/;"	f	language:C	file:	signature:(long val, short minwidth)
+writenum	ls.c	/^static void writenum(long val, short minwidth)$/;"	f	language:C	file:	signature:(long val, short minwidth)
+xmalloc	zcat.c	/^voidp xmalloc (size)$/;"	f	language:C
+xstrtod	coreutils/printf.c	/^xstrtod (char *s)$/;"	f	language:C	file:	signature:(char *s)
+xstrtod	printf.c	/^xstrtod (char *s)$/;"	f	language:C	file:	signature:(char *s)
+xstrtol	coreutils/printf.c	/^xstrtol (char *s)$/;"	f	language:C	file:	signature:(char *s)
+xstrtol	printf.c	/^xstrtol (char *s)$/;"	f	language:C	file:	signature:(char *s)
+xstrtoul	coreutils/printf.c	/^xstrtoul (char *s)$/;"	f	language:C	file:	signature:(char *s)
+xstrtoul	printf.c	/^xstrtoul (char *s)$/;"	f	language:C	file:	signature:(char *s)
+z_len	archival/gzip.c	/^int  z_len;           \/* strlen(z_suffix) *\/$/;"	v	language:C
+z_len	gzip.c	/^int  z_len;           \/* strlen(z_suffix) *\/$/;"	v	language:C
+z_suffix	archival/gzip.c	/^char z_suffix[MAX_SUFFIX+1]; \/* default suffix (can be set with --suffix) *\/$/;"	v	language:C
+z_suffix	gzip.c	/^char z_suffix[MAX_SUFFIX+1]; \/* default suffix (can be set with --suffix) *\/$/;"	v	language:C
+zcat_main	zcat.c	/^int zcat_main (struct FileInfo * i, int argc, char * * argv)$/;"	f	language:C	signature:(struct FileInfo * i, int argc, char * * argv)
+zcat_usage	zcat.c	/^const char	zcat_usage[] = "zcat\\n"$/;"	v	language:C
+zdecode	zcat.c	914;"	d	language:C	file:
+zencode	zcat.c	913;"	d	language:C	file:
+zfile	archival/gzip.c	/^local file_t zfile; \/* output gzip file *\/$/;"	v	language:C
+zfile	gzip.c	/^local file_t zfile; \/* output gzip file *\/$/;"	v	language:C
